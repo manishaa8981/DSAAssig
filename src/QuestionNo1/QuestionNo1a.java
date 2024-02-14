@@ -77,4 +77,3 @@ public class QuestionNo1a {
         System.out.println("Minimum cost to decorate all venues: " + minimumCost); // Output: 7
     }
 }
-
