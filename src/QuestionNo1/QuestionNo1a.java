@@ -23,5 +23,58 @@ Explanation: Decorate venue 0 with theme 0, venue 1 with theme 1, and venue 2 wi
 package QuestionNo1;
 
 public class QuestionNo1a {
+    public static int findMinimumCost(int[][] costs) {
+        if (costs == null || costs.length == 0 || costs[0].length == 0) {
+            return 0;
+        }
 
+        int n = costs.length; // no. of venues
+        int k = costs[0].length; // no. of themes
+
+        int[][] dp = new int[n][k];
+
+        // Initialize the first row with the costs of decorating the first venue
+        for (int j = 0; j < k; j++) {
+            dp[0][j] = costs[0][j];
+        }
+
+        // Iterate through the n
+        for (int i = 1; i < n; i++) {
+            for (int j = 0; j < k; j++) {
+                // Find the minimum cost by considering the cost of the current theme
+                // and the minimum cost from the previous venue with a different theme
+                dp[i][j] = costs[i][j] + findMinExcept(dp[i - 1], j);
+            }
+        }
+
+        // Find the minimum cost from the last row
+        return findMin(dp[n - 1]);
+    }
+
+    // Helper method to find the minimum value in an array, excluding the value at a specific index
+    private static int findMinExcept(int[] array, int excludeIndex) {
+        int min = Integer.MAX_VALUE;
+        for (int i = 0; i < array.length; i++) {
+            if (i != excludeIndex) {  // Ensuring different themes for adjacent venues
+                min = Math.min(min, array[i]);
+            }
+        }
+        return min;
+    }
+
+    // Helper method to find the minimum value in an array
+    private static int findMin(int[] array) {
+        int min = Integer.MAX_VALUE;
+        for (int value : array) {
+            min = Math.min(min, value);
+        }
+        return min;
+    }
+
+    public static void main(String[] args) {
+        int[][] costs = {{1, 3, 2}, {4, 6, 8}, {3, 1, 5}};
+        int minimumCost = findMinimumCost(costs);
+        System.out.println("Minimum cost to decorate all venues: " + minimumCost); // Output: 7
+    }
 }
+
