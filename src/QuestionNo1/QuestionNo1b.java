@@ -50,7 +50,7 @@ public class QuestionNo1b {
     public static void main(String[] args) {
         int[] engines = {1, 2, 3};
         int k = 1;
-        System.out.println("Minimum time to build all engines: "+minimumTime(engines, k));
+        System.out.println("Minimum time to build all engines: "+minimumTime(engines, k));//Output:4
     }
 
 
