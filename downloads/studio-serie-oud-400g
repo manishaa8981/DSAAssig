@@ -1,0 +1,1112 @@
+<!doctype html>
+<html class="no-js" lang="en"><head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-946374512"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'AW-946374512');
+</script>
+
+<script>
+window.addEventListener('load', function (event) {
+document.querySelector('[name="add"]').addEventListener('click', function () {
+gtag('event', 'conversion', { 'send_to': 'AW-946374512/GlTYCNSfpeQYEPCOosMD' });
+})
+});
+</script>
+
+<script>
+window.addEventListener('load', function (event) {
+document.querySelector('[name="checkout"]').addEventListener('click', function () {
+gtag('event', 'conversion', { 'send_to': 'AW-946374512/IK_wCN2fpeQYEPCOosMD' });
+})
+});
+</script>
+
+    <script src="//www.becandle.com.hk/cdn/shop/t/15/assets/easy_quote_sealapps.js?v=61231873530314299341663988674" defer="defer"></script>
+    <script id="quote_product_variants" type="application/json">
+      [{"id":39343637463101,"title":"Default Title","option1":"Default Title","option2":null,"option3":null,"sku":"BCSSP400G000","requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"STUDIO Series, 400g Scented Candle - No. 00 OUD","public_title":null,"options":["Default Title"],"price":55000,"weight":1150,"compare_at_price":null,"inventory_quantity":19,"inventory_management":"shopify","inventory_policy":"deny","barcode":"BCSSP400G000","requires_selling_plan":false,"selling_plan_allocations":[],"quantity_rule":{"min":1,"max":null,"increment":1}}]
+    </script>
+    <script id="quote_product_selected_or_first_available_variant" type="application/json">
+      {"id":39343637463101,"title":"Default Title","option1":"Default Title","option2":null,"option3":null,"sku":"BCSSP400G000","requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"STUDIO Series, 400g Scented Candle - No. 00 OUD","public_title":null,"options":["Default Title"],"price":55000,"weight":1150,"compare_at_price":null,"inventory_quantity":19,"inventory_management":"shopify","inventory_policy":"deny","barcode":"BCSSP400G000","requires_selling_plan":false,"selling_plan_allocations":[],"quantity_rule":{"min":1,"max":null,"increment":1}}
+    </script>
+    <script id="quote_product_current_id" type="application/json">
+      6585687539773
+    </script>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="theme-color" content="#f5d9ba"><link rel="canonical" href="https://www.becandle.com.hk/products/studio-serie-oud-400g"><link rel="preconnect" href="https://cdn.shopify.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.shopify.com" crossorigin>
+    <link rel="preconnect" href="https://monorail-edge.shopifysvc.com" crossorigin>
+
+    <link rel="preload" href="//www.becandle.com.hk/cdn/shop/t/15/assets/lazysizes.js?v=111431644619468174291661913804" as="script">
+    <link rel="preload" href="//www.becandle.com.hk/cdn/shop/t/15/assets/vendor.js?v=162188903247186044891661915911" as="script">
+    <link rel="preload" href="//www.becandle.com.hk/cdn/shop/t/15/assets/theme.js?v=38195433900462765991677260486" as="script">
+    <link rel="preload" href="//www.becandle.com.hk/cdn/shop/t/15/assets/theme.css?v=166520443989623355901689135303" as="style">
+
+    
+<link
+        rel="preload"
+        as="image"
+        href="//www.becandle.com.hk/cdn/shop/files/oud_small.png?v=1705487085"
+        srcset="//www.becandle.com.hk/cdn/shop/files/oud_550x.png?v=1705487085 550w,"
+        sizes="
+          (min-width: 768px), 50vw,
+          100vw
+        "
+      >
+    
+<link rel="shortcut icon" href="//www.becandle.com.hk/cdn/shop/files/161833149_264766375207942_6267948615705556517_n_32x32.jpg?v=1684921682" type="image/png"><!-- Title and description ================================================ -->
+    
+    <title>
+      
+
+    STUDIO Series, 400g Scented Candle - No. 00 OUD
+&ndash; BeCandle
+
+    </title><meta name="description" content="Scent Notes - No. 00 OUD Mandarin, brown sugar, violet, oud, jasmine, olibanum, amber, musk, vanilla  Sweet without being overpowering, our Oud fragrance lives up to the fragrance’s reputation as liquid gold. Housed in a beautiful clear hand-blown vessel, the scent of oud wood is enhanced by the citrus notes of mandari">
+    <!-- /snippets/social-meta-tags.liquid --><meta property="og:site_name" content="BeCandle">
+<meta property="og:url" content="https://www.becandle.com.hk/products/studio-serie-oud-400g">
+<meta property="og:title" content="STUDIO Series, 400g Scented Candle - No. 00 OUD">
+<meta property="og:type" content="product">
+<meta property="og:description" content="Scent Notes - No. 00 OUD Mandarin, brown sugar, violet, oud, jasmine, olibanum, amber, musk, vanilla  Sweet without being overpowering, our Oud fragrance lives up to the fragrance’s reputation as liquid gold. Housed in a beautiful clear hand-blown vessel, the scent of oud wood is enhanced by the citrus notes of mandari"><meta property="og:price:amount" content="550.00">
+  <meta property="og:price:currency" content="HKD">
+      <meta property="og:image" content="http://www.becandle.com.hk/cdn/shop/files/oud.png?v=1705487085">
+      <meta property="og:image:secure_url" content="https://www.becandle.com.hk/cdn/shop/files/oud.png?v=1705487085">
+      <meta property="og:image:height" content="800">
+      <meta property="og:image:width" content="800">
+      <meta property="og:image" content="http://www.becandle.com.hk/cdn/shop/files/oud2.png?v=1705487085">
+      <meta property="og:image:secure_url" content="https://www.becandle.com.hk/cdn/shop/files/oud2.png?v=1705487085">
+      <meta property="og:image:height" content="800">
+      <meta property="og:image:width" content="800">
+      <meta property="og:image" content="http://www.becandle.com.hk/cdn/shop/products/studioseriesbox.jpg?v=1705487085">
+      <meta property="og:image:secure_url" content="https://www.becandle.com.hk/cdn/shop/products/studioseriesbox.jpg?v=1705487085">
+      <meta property="og:image:height" content="2222">
+      <meta property="og:image:width" content="2222">
+<meta property="twitter:image" content="http://www.becandle.com.hk/cdn/shop/files/oud_1200x1200.png?v=1705487085">
+
+<meta name="twitter:site" content="@">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="STUDIO Series, 400g Scented Candle - No. 00 OUD">
+<meta name="twitter:description" content="Scent Notes - No. 00 OUD Mandarin, brown sugar, violet, oud, jasmine, olibanum, amber, musk, vanilla  Sweet without being overpowering, our Oud fragrance lives up to the fragrance’s reputation as liquid gold. Housed in a beautiful clear hand-blown vessel, the scent of oud wood is enhanced by the citrus notes of mandari">
+<!-- CSS ================================================================== -->
+
+    <link href="//www.becandle.com.hk/cdn/shop/t/15/assets/font-settings.css?v=137195803345170423191708184298" rel="stylesheet" type="text/css" media="all" />
+
+    
+<style data-shopify>
+
+:root {
+/* ================ Product video ================ */
+
+---color_video_bg: #f2f2f2;
+
+
+/* ================ Color Variables ================ */
+
+/* === Backgrounds ===*/
+---color-bg: #ffffff;
+---color-bg-accent: #fcfaf7;
+
+/* === Text colors ===*/
+---color-text-dark: #000000;
+---color-text: #211e20;
+---color-text-light: #646263;
+
+/* === Bright color ===*/
+---color-primary: #211e20;
+---color-primary-hover: #000000;
+---color-primary-fade: rgba(33, 30, 32, 0.05);
+---color-primary-fade-hover: rgba(33, 30, 32, 0.1);---color-primary-opposite: #ffffff;
+
+/* === Secondary/link Color ===*/
+---color-secondary: #f5d9ba;
+---color-secondary-hover: #f7b46b;
+---color-secondary-fade: rgba(245, 217, 186, 0.05);
+---color-secondary-fade-hover: rgba(245, 217, 186, 0.1);---color-secondary-opposite: #000000;
+
+/* === Shades of grey ===*/
+---color-a5:  rgba(33, 30, 32, 0.05);
+---color-a10: rgba(33, 30, 32, 0.1);
+---color-a20: rgba(33, 30, 32, 0.2);
+---color-a35: rgba(33, 30, 32, 0.35);
+---color-a50: rgba(33, 30, 32, 0.5);
+---color-a80: rgba(33, 30, 32, 0.8);
+---color-a90: rgba(33, 30, 32, 0.9);
+---color-a95: rgba(33, 30, 32, 0.95);
+
+
+/* ================ Inverted Color Variables ================ */
+
+---inverse-bg: #333333;
+---inverse-bg-accent: #191008;
+
+/* === Text colors ===*/
+---inverse-text-dark: #ffffff;
+---inverse-text: #FFFFFF;
+---inverse-text-light: #c2c2c2;
+
+/* === Bright color ===*/
+---inverse-primary: #ffe5da;
+---inverse-primary-hover: #ffaf8e;
+---inverse-primary-fade: rgba(255, 229, 218, 0.05);
+---inverse-primary-fade-hover: rgba(255, 229, 218, 0.1);---inverse-primary-opposite: #000000;
+
+
+/* === Second Color ===*/
+---inverse-secondary: #dff3fd;
+---inverse-secondary-hover: #91dbff;
+---inverse-secondary-fade: rgba(223, 243, 253, 0.05);
+---inverse-secondary-fade-hover: rgba(223, 243, 253, 0.1);---inverse-secondary-opposite: #000000;
+
+
+/* === Shades of grey ===*/
+---inverse-a5:  rgba(255, 255, 255, 0.05);
+---inverse-a10: rgba(255, 255, 255, 0.1);
+---inverse-a20: rgba(255, 255, 255, 0.2);
+---inverse-a35: rgba(255, 255, 255, 0.3);
+---inverse-a80: rgba(255, 255, 255, 0.8);
+---inverse-a90: rgba(255, 255, 255, 0.9);
+---inverse-a95: rgba(255, 255, 255, 0.95);
+
+
+/* === Account Bar ===*/
+---color-announcement-bg: #211e20;
+---color-announcement-text: #fffcf9;
+
+/* === Nav and dropdown link background ===*/
+---color-nav: #211e20;
+---color-nav-text: #ffffff;
+---color-nav-border: #211e20;
+---color-nav-a10: rgba(255, 255, 255, 0.1);
+---color-nav-a50: rgba(255, 255, 255, 0.5);
+
+/* === Site Footer ===*/
+---color-footer-bg: #ffffff;
+---color-footer-text: #211e20;
+---color-footer-a5: rgba(33, 30, 32, 0.05);
+---color-footer-a15: rgba(33, 30, 32, 0.15);
+---color-footer-a90: rgba(33, 30, 32, 0.9);
+
+/* === Products ===*/
+---color-bg-product: #fcfcfc;
+---product-grid-aspect-ratio: 100%;
+
+/* === Product badges ===*/
+---color-badge: #ffffff;
+---color-badge-text: #656565;
+
+/* === disabled form colors ===*/
+---color-disabled-bg: #e9e9e9;
+---color-disabled-text: #b1b0b1;
+
+---inverse-disabled-bg: #474747;
+---inverse-disabled-text: #7a7a7a;
+
+/* === Button Radius === */
+---button-radius: 0px;
+
+
+/* ================ Typography ================ */
+
+---font-stack-body: 'Gotham';
+---font-style-body: normal;
+---font-weight-body: normal;
+---font-weight-body-bold: 700;
+---font-adjust-body: 1.0;
+
+---font-stack-heading: 'AGaramon';
+---font-style-heading: normal;
+---font-weight-heading: 600;
+---font-weight-heading-bold: 600;
+---font-adjust-heading: 1.15;
+
+  ---font-heading-space: 1px;
+  ---font-heading-caps: uppercase;
+
+---font-stack-accent: 'Gotham';
+---font-style-accent: normal;
+---font-weight-accent: 500;
+---font-weight-accent-bold: 700;
+---font-adjust-accent: 0.95;
+
+---ico-select: url('//www.becandle.com.hk/cdn/shop/t/15/assets/ico-select.svg?v=119008905992416931941662449616');
+
+---url-zoom: url('//www.becandle.com.hk/cdn/shop/t/15/assets/cursor-zoom.svg?v=121154314962179043381661913826');
+---url-zoom-2x: url('//www.becandle.com.hk/cdn/shop/t/15/assets/cursor-zoom-2x.svg?v=132484552385191467201661913826');
+
+
+
+}
+
+</style>
+
+    <link href="//www.becandle.com.hk/cdn/shop/t/15/assets/theme.css?v=166520443989623355901689135303" rel="stylesheet" type="text/css" media="all" />
+
+    <script>
+    document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+    let root = '/';
+    if (root[root.length - 1] !== '/') {
+      root = `${root}/`;
+    }
+    var theme = {
+      routes: {
+        root_url: root,
+        cart: '/cart',
+        cart_add_url: '/cart/add',
+        product_recommendations_url: '/recommendations/products'
+      },
+      assets: {
+        photoswipe: '//www.becandle.com.hk/cdn/shop/t/15/assets/photoswipe.js?v=92904272307011895101661913804',
+        smoothscroll: '//www.becandle.com.hk/cdn/shop/t/15/assets/smoothscroll.js?v=37906625415260927261661913804',
+        swatches: '//www.becandle.com.hk/cdn/shop/t/15/assets/swatches.json?v=123337507157422460681661915906',
+        noImage: '//www.becandle.com.hk/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c.gif',
+        base: '//www.becandle.com.hk/cdn/shop/t/15/assets/'
+      },
+      strings: {
+        swatchesKey: "Color, Colour",     
+        addToCart: "Add to Cart",
+        estimateShipping: "Estimate shipping",
+        noShippingAvailable: "We do not ship to this destination.",
+        free: "Free",
+        from: "From",
+        preOrder: "Pre-order",
+        soldOut: "Sold Out",
+        sale: "Sale",
+        subscription: "Subscription",
+        unavailable: "Unavailable",
+        unitPrice: "Unit price",
+        unitPriceSeparator: "per",        
+        stockout: "All available stock is in cart",
+        products: "Products",
+        pages: "Pages",
+        collections: "Collections",
+        resultsFor: "Results for",
+        noResultsFor: "No results for",
+        articles: "Articles"
+      },
+      settings: {
+        badge_sale_type: "percentage",
+        search_products: true,
+        search_collections: true,
+        search_pages: true,
+        search_articles: true,
+        animate_hover: true,
+        animate_scroll: true
+      },
+      moneyFormat: "\u003cspan class=money\u003e${{amount}}\u003c\/span\u003e"
+    }
+    </script><!-- Theme Javascript ============================================================== -->
+    <script src="//www.becandle.com.hk/cdn/shop/t/15/assets/lazysizes.js?enable_js_minification=1&v=111431644619468174291661913804" async="async"></script>
+    <script src="//www.becandle.com.hk/cdn/shop/t/15/assets/vendor.js?enable_js_minification=1&v=162188903247186044891661915911" defer="defer"></script>
+    <script src="//www.becandle.com.hk/cdn/shop/t/15/assets/theme.js?enable_js_minification=1&v=38195433900462765991677260486" defer="defer"></script>
+
+    <script>
+      (function () {
+        function onPageShowEvents() {
+          if ('requestIdleCallback' in window) {
+            requestIdleCallback(initCartEvent)
+          } else {
+            initCartEvent()
+          }
+          function initCartEvent(){
+            document.documentElement.dispatchEvent(new CustomEvent('theme:cart:init', {
+              bubbles: true
+            }));
+          }
+        };
+        window.onpageshow = onPageShowEvents;
+      })();
+    </script>
+
+    <script type="text/javascript">
+      if (window.MSInputMethodContext && document.documentMode) {
+        var scripts = document.getElementsByTagName('script')[0];
+        var polyfill = document.createElement("script");
+        polyfill.defer = true;
+        polyfill.src = "//www.becandle.com.hk/cdn/shop/t/15/assets/ie11.js?v=144489047535103983231661913804";
+
+        scripts.parentNode.insertBefore(polyfill, scripts);
+      }
+    </script>
+
+    <!-- Shopify app scripts =========================================================== -->
+    <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta name="facebook-domain-verification" content="je6qa04fbcyb64kpdyb8p1ochsu9ky">
+<meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/7539939/digital_wallets/dialog">
+<meta name="shopify-checkout-api-token" content="169e21725dcc207d8908fa675c259cf8">
+<meta id="in-context-paypal-metadata" data-shop-id="7539939" data-venmo-supported="false" data-environment="production" data-locale="en_US" data-paypal-v4="true" data-currency="HKD">
+<link rel="alternate" hreflang="x-default" href="https://www.becandle.com.hk/products/studio-serie-oud-400g">
+<link rel="alternate" hreflang="en-HK" href="https://www.becandle.com.hk/products/studio-serie-oud-400g">
+<link rel="alternate" hreflang="zh-Hant-HK" href="https://www.becandle.com.hk/zh/products/studio-serie-oud-400g">
+<link rel="alternate" type="application/json+oembed" href="https://www.becandle.com.hk/products/studio-serie-oud-400g.oembed">
+<script async="async" src="/checkouts/internal/preloads.js?permanent-domain=becandle.myshopify.com&locale=en-HK"></script>
+<script async="async" src="https://shop.app/checkouts/internal/preloads.js?permanent-domain=becandle.myshopify.com&locale=en-HK" crossorigin="anonymous"></script>
+<script id="apple-pay-shop-capabilities" type="application/json">{"shopId":7539939,"countryCode":"HK","currencyCode":"HKD","merchantCapabilities":["supports3DS"],"merchantId":"gid:\/\/shopify\/Shop\/7539939","merchantName":"BeCandle","requiredBillingContactFields":["postalAddress","email","phone"],"requiredShippingContactFields":["postalAddress","email","phone"],"shippingType":"shipping","supportedNetworks":["visa","masterCard","amex"],"total":{"type":"pending","label":"BeCandle","amount":"1.00"},"shopifyPaymentsEnabled":true,"supportsSubscriptions":false}</script>
+<script id="shopify-features" type="application/json">{"accessToken":"169e21725dcc207d8908fa675c259cf8","betas":["rich-media-storefront-analytics"],"domain":"www.becandle.com.hk","predictiveSearch":true,"shopId":7539939,"smart_payment_buttons_url":"https:\/\/www.becandle.com.hk\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/www.becandle.com.hk\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en","flg4ff40b22":false}</script>
+<script>var Shopify = Shopify || {};
+Shopify.shop = "becandle.myshopify.com";
+Shopify.locale = "en";
+Shopify.currency = {"active":"HKD","rate":"1.0"};
+Shopify.country = "HK";
+Shopify.theme = {"name":"Be Candle","id":124705374269,"theme_store_id":null,"role":"main"};
+Shopify.theme.handle = "null";
+Shopify.theme.style = {"id":null,"handle":null};
+Shopify.cdnHost = "www.becandle.com.hk/cdn";
+Shopify.routes = Shopify.routes || {};
+Shopify.routes.root = "/";</script>
+<script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
+<script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
+<script>window.ShopifyPay = window.ShopifyPay || {};
+window.ShopifyPay.apiHost = "shop.app\/pay";</script>
+<script>
+  window.Shopify = window.Shopify || {};
+  if (!window.Shopify.featureAssets) window.Shopify.featureAssets = {};
+  window.Shopify.featureAssets['shop-js'] = {"pay-button":["modules/client.pay-button_61ca251b.en.esm.js","modules/chunk.common_d6ccb0ed.esm.js"],"init-shop-email-lookup-coordinator":["modules/client.init-shop-email-lookup-coordinator_50654aa0.en.esm.js","modules/chunk.common_d6ccb0ed.esm.js"],"init-customer-accounts-sign-up":["modules/client.init-customer-accounts-sign-up_0de044d8.en.esm.js","modules/chunk.common_d6ccb0ed.esm.js"],"init-shop-for-new-customer-accounts":["modules/client.init-shop-for-new-customer-accounts_1e11b044.en.esm.js","modules/chunk.common_d6ccb0ed.esm.js"],"init-customer-accounts":["modules/client.init-customer-accounts_1848d7a0.en.esm.js","modules/chunk.common_d6ccb0ed.esm.js"],"shop-pay-payment-request":["modules/client.shop-pay-payment-request_dca904bb.en.esm.js","modules/chunk.common_d6ccb0ed.esm.js","modules/chunk.shop-pay_9aded3e6.esm.js"],"discount-app":["modules/client.discount-app_650a9a06.en.esm.js","modules/chunk.common_d6ccb0ed.esm.js"],"login-button":["modules/client.login-button_3ad6eab1.en.esm.js","modules/chunk.common_d6ccb0ed.esm.js"],"payment-terms":["modules/client.payment-terms_27c848af.en.esm.js","modules/chunk.common_d6ccb0ed.esm.js"]};
+</script>
+<script>(function() {
+  function asyncLoad() {
+    var urls = ["https:\/\/omnisnippet1.com\/inShop\/Embed\/shopify.js?shop=becandle.myshopify.com","https:\/\/cdn1.stamped.io\/files\/widget.min.js?shop=becandle.myshopify.com","https:\/\/geolocation-recommendations.shopifyapps.com\/selectors\/script.js?shop=becandle.myshopify.com","https:\/\/cdn-bundler.nice-team.net\/app\/js\/bundler.js?shop=becandle.myshopify.com"];
+    for (var i = 0; i < urls.length; i++) {
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = urls[i];
+      var x = document.getElementsByTagName('script')[0];
+      x.parentNode.insertBefore(s, x);
+    }
+  };
+  if(window.attachEvent) {
+    window.attachEvent('onload', asyncLoad);
+  } else {
+    window.addEventListener('load', asyncLoad, false);
+  }
+})();</script>
+<script id="__st">var __st={"a":7539939,"offset":28800,"reqid":"28e88fd2-9b79-4878-9000-320a428b5705","pageurl":"www.becandle.com.hk\/products\/studio-serie-oud-400g","u":"3760d5f03698","p":"product","rtyp":"product","rid":6585687539773};</script>
+<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
+<script>!function(o){o.addEventListener("DOMContentLoaded",function(){window.Shopify=window.Shopify||{},window.Shopify.recaptchaV3=window.Shopify.recaptchaV3||{siteKey:"6LeHG2ApAAAAAO4rPaDW-qVpPKPOBfjbCpzJB9ey"};var t=['form[action*="/contact"] input[name="form_type"][value="contact"]','form[action*="/comments"] input[name="form_type"][value="new_comment"]','form[action*="/account"] input[name="form_type"][value="customer_login"]','form[action*="/account"] input[name="form_type"][value="recover_customer_password"]','form[action*="/account"] input[name="form_type"][value="create_customer"]','form[action*="/contact"] input[name="form_type"][value="customer"]'].join(",");function n(e){e=e.target;null==e||null!=(e=function e(t,n){if(null==t.parentElement)return null;if("FORM"!=t.parentElement.tagName)return e(t.parentElement,n);for(var o=t.parentElement.action,r=0;r<n.length;r++)if(-1!==o.indexOf(n[r]))return t.parentElement;return null}(e,["/contact","/comments","/account"]))&&null!=e.querySelector(t)&&((e=o.createElement("script")).setAttribute("src","https://cdn.shopify.com/shopifycloud/storefront-recaptcha-v3/v0.6/index.js"),o.body.appendChild(e),o.removeEventListener("focus",n,!0),o.removeEventListener("change",n,!0),o.removeEventListener("click",n,!0))}o.addEventListener("click",n,!0),o.addEventListener("change",n,!0),o.addEventListener("focus",n,!0)})}(document);</script>
+<script integrity="sha256-h4dvokWvGcvRSqiG7VnGqoonxF0k3NeoHPLSMjUGIz4=" data-source-attribution="shopify.loadfeatures" defer="defer" src="//www.becandle.com.hk/cdn/shopifycloud/shopify/assets/storefront/load_feature-87876fa245af19cbd14aa886ed59c6aa8a27c45d24dcd7a81cf2d2323506233e.js" crossorigin="anonymous"></script>
+<script crossorigin="anonymous" defer="defer" src="//www.becandle.com.hk/cdn/shopifycloud/shopify/assets/shopify_pay/storefront-a2d444786d996da5634fbbaeeffe6104ee672440dfa6cdcaebfb27dceaaf9c0f.js?v=20220906"></script>
+<script integrity="sha256-HAs5a9TQVLlKuuHrahvWuke+s1UlxXohfHeoYv8G2D8=" data-source-attribution="shopify.dynamic-checkout" defer="defer" src="//www.becandle.com.hk/cdn/shopifycloud/shopify/assets/storefront/features-1c0b396bd4d054b94abae1eb6a1bd6ba47beb35525c57a217c77a862ff06d83f.js" crossorigin="anonymous"></script>
+
+
+<style id="shopify-dynamic-checkout-cart">@media screen and (min-width: 750px) {
+  #dynamic-checkout-cart {
+    min-height: 50px;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  #dynamic-checkout-cart {
+    min-height: 180px;
+  }
+}
+</style><script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
+    <!-- "snippets/weglot_hreftags.liquid" was not rendered, the associated app was uninstalled -->
+    <!-- "snippets/weglot_switcher.liquid" was not rendered, the associated app was uninstalled -->
+
+    
+      <!-- "snippets/bookthatapp-widgets.liquid" was not rendered, the associated app was uninstalled -->
+    
+<link rel="alternate" hreflang="en" href="https://www.becandle.com.hk/products/studio-serie-oud-400g">
+    <link rel="alternate" hreflang="zh-tw" href="https://zh-hk.becandle.com.hk/products/studio-serie-oud-400g">
+    <script type="text/javascript" src="https://cdn.weglot.com/weglot.min.js"></script>
+    <script>
+      Weglot.initialize({
+        api_key: 'wg_54f83f4e0fe0cb79f36cfc481d4910d97'
+      });
+    </script>
+  <link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
+<script>(function(){if ("sendBeacon" in navigator && "performance" in window) {var session_token = document.cookie.match(/_shopify_s=([^;]*)/);function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 7539939,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token: session_token && session_token.length === 2 ? session_token[1] : "",page_type: "product"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
+<script id="web-pixels-manager-setup">(function e(e,n,a,t,r){var o="function"==typeof BigInt&&-1!==BigInt.toString().indexOf("[native code]")?"modern":"legacy";window.Shopify=window.Shopify||{};var i=window.Shopify;i.analytics=i.analytics||{};var s=i.analytics;s.replayQueue=[],s.publish=function(e,n,a){return s.replayQueue.push([e,n,a]),!0};try{self.performance.mark("wpm:start")}catch(e){}var l=[a,"/wpm","/b",r,o.substring(0,1),".js"].join("");!function(e){var n=e.src,a=e.async,t=void 0===a||a,r=e.onload,o=e.onerror,i=document.createElement("script"),s=document.head,l=document.body;i.async=t,i.src=n,r&&i.addEventListener("load",r),o&&i.addEventListener("error",o),s?s.appendChild(i):l?l.appendChild(i):console.error("Did not find a head or body element to append the script")}({src:l,async:!0,onload:function(){var a=window.webPixelsManager.init(e);n(a);var t=window.Shopify.analytics;t.replayQueue.forEach((function(e){var n=e[0],t=e[1],r=e[2];a.publishCustomEvent(n,t,r)})),t.replayQueue=[],t.publish=a.publishCustomEvent,t.visitor=a.visitor},onerror:function(){var n=e.storefrontBaseUrl.replace(/\/$/,""),a="".concat(n,"/.well-known/shopify/monorail/unstable/produce_batch"),r=JSON.stringify({metadata:{event_sent_at_ms:(new Date).getTime()},events:[{schema_id:"web_pixels_manager_load/2.0",payload:{version:t||"latest",page_url:self.location.href,status:"failed",error_msg:"".concat(l," has failed to load")},metadata:{event_created_at_ms:(new Date).getTime()}}]});try{if(self.navigator.sendBeacon.bind(self.navigator)(a,r))return!0}catch(e){}var o=new XMLHttpRequest;try{return o.open("POST",a,!0),o.setRequestHeader("Content-Type","text/plain"),o.send(r),!0}catch(e){console&&console.warn&&console.warn("[Web Pixels Manager] Got an unhandled error while logging a load error.")}return!1}})})({shopId: 7539939,storefrontBaseUrl: "https://www.becandle.com.hk",cdnBaseUrl: "https://www.becandle.com.hk/cdn",surface: "storefront-renderer",enabledBetaFlags: [],webPixelsConfigList: [{"id":"shopify-app-pixel","configuration":"{}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"0575","apiClientId":"shopify-pixel","type":"APP","purposes":["ANALYTICS"]},{"id":"shopify-custom-pixel","eventPayloadVersion":"v1","runtimeContext":"LAX","scriptVersion":"0575","apiClientId":"shopify-pixel","type":"CUSTOM","purposes":["ANALYTICS"]}],initData: {"cart":null,"checkout":null,"customer":null,"productVariants":[{"id":"39343637463101","image":{"src":"\/\/www.becandle.com.hk\/cdn\/shop\/files\/oud.png?v=1705487085"},"price":{"amount":550.0,"currencyCode":"HKD"},"product":{"id":"6585687539773","title":"STUDIO Series, 400g Scented Candle - No. 00 OUD","untranslatedTitle":"STUDIO Series, 400g Scented Candle - No. 00 OUD","url":"\/products\/studio-serie-oud-400g","vendor":"BeCandle","type":"Scented candles"},"sku":"BCSSP400G000","title":"Default Title","untranslatedTitle":"Default Title"}]},},function pageEvents(webPixelsManagerAPI) {webPixelsManagerAPI.publish("page_viewed");webPixelsManagerAPI.publish("product_viewed", {"productVariant":{"id":"39343637463101","image":{"src":"\/\/www.becandle.com.hk\/cdn\/shop\/files\/oud.png?v=1705487085"},"price":{"amount":550.0,"currencyCode":"HKD"},"product":{"id":"6585687539773","title":"STUDIO Series, 400g Scented Candle - No. 00 OUD","untranslatedTitle":"STUDIO Series, 400g Scented Candle - No. 00 OUD","url":"\/products\/studio-serie-oud-400g","vendor":"BeCandle","type":"Scented candles"},"sku":"BCSSP400G000","title":"Default Title","untranslatedTitle":"Default Title"}});},"https://www.becandle.com.hk/cdn","0.0.439","842a21a8w6bc87f1fp748799bam4bde34bf",);</script>  <script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+window.ShopifyAnalytics.meta.currency = 'HKD';
+var meta = {"product":{"id":6585687539773,"gid":"gid:\/\/shopify\/Product\/6585687539773","vendor":"BeCandle","type":"Scented candles","variants":[{"id":39343637463101,"price":55000,"name":"STUDIO Series, 400g Scented Candle - No. 00 OUD","public_title":null,"sku":"BCSSP400G000"}]},"page":{"pageType":"product","resourceType":"product","resourceId":6585687539773}};
+for (var attr in meta) {
+  window.ShopifyAnalytics.meta[attr] = meta[attr];
+}</script>
+<script>window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+  window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'AW-946374512');
+    
+
+    
+    
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-Q0YED0N76J');
+    
+
+    
+      window.addEventListener("load", function(){
+          if(window.location.href.includes("/products")){
+              if(document.querySelector("h1").innerText.toLowerCase().includes("workshop")){
+                  gtag('event', 'Workshop');
+              } else {
+                  gtag('event', 'Products')
+              };
+          };
+      });
+};
+</script>
+<script class="analytics">(window.gaDevIds=window.gaDevIds||[]).push('BwiEti');
+
+
+(function () {
+    var customDocumentWrite = function(content) {
+      var jquery = null;
+
+      if (window.jQuery) {
+        jquery = window.jQuery;
+      } else if (window.Checkout && window.Checkout.$) {
+        jquery = window.Checkout.$;
+      }
+
+      if (jquery) {
+        jquery('body').append(content);
+      }
+    };
+
+    var hasLoggedConversion = function(token) {
+      if (token) {
+        return document.cookie.indexOf('loggedConversion=' + token) !== -1;
+      }
+      return false;
+    }
+
+    var setCookieIfConversion = function(token) {
+      if (token) {
+        var twoMonthsFromNow = new Date(Date.now());
+        twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2);
+
+        document.cookie = 'loggedConversion=' + token + '; expires=' + twoMonthsFromNow;
+      }
+    }
+
+    var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+    if (trekkie.integrations) {
+      return;
+    }
+    trekkie.methods = [
+      'identify',
+      'page',
+      'ready',
+      'track',
+      'trackForm',
+      'trackLink'
+    ];
+    trekkie.factory = function(method) {
+      return function() {
+        var args = Array.prototype.slice.call(arguments);
+        args.unshift(method);
+        trekkie.push(args);
+        return trekkie;
+      };
+    };
+    for (var i = 0; i < trekkie.methods.length; i++) {
+      var key = trekkie.methods[i];
+      trekkie[key] = trekkie.factory(key);
+    }
+    trekkie.load = function(config) {
+      trekkie.config = config || {};
+      trekkie.config.initialDocumentCookie = document.cookie;
+      var first = document.getElementsByTagName('script')[0];
+      var script = document.createElement('script');
+      script.type = 'text/javascript';
+      script.onerror = function(e) {
+        var scriptFallback = document.createElement('script');
+        scriptFallback.type = 'text/javascript';
+        scriptFallback.onerror = function(error) {
+                var Monorail = {
+      produce: function produce(monorailDomain, schemaId, payload) {
+        var currentMs = new Date().getTime();
+        var event = {
+          schema_id: schemaId,
+          payload: payload,
+          metadata: {
+            event_created_at_ms: currentMs,
+            event_sent_at_ms: currentMs
+          }
+        };
+        return Monorail.sendRequest("https://" + monorailDomain + "/v1/produce", JSON.stringify(event));
+      },
+      sendRequest: function sendRequest(endpointUrl, payload) {
+        // Try the sendBeacon API
+        if (window && window.navigator && typeof window.navigator.sendBeacon === 'function' && typeof window.Blob === 'function' && !Monorail.isIos12()) {
+          var blobData = new window.Blob([payload], {
+            type: 'text/plain'
+          });
+
+          if (window.navigator.sendBeacon(endpointUrl, blobData)) {
+            return true;
+          } // sendBeacon was not successful
+
+        } // XHR beacon
+
+        var xhr = new XMLHttpRequest();
+
+        try {
+          xhr.open('POST', endpointUrl);
+          xhr.setRequestHeader('Content-Type', 'text/plain');
+          xhr.send(payload);
+        } catch (e) {
+          console.log(e);
+        }
+
+        return false;
+      },
+      isIos12: function isIos12() {
+        return window.navigator.userAgent.lastIndexOf('iPhone; CPU iPhone OS 12_') !== -1 || window.navigator.userAgent.lastIndexOf('iPad; CPU OS 12_') !== -1;
+      }
+    };
+    Monorail.produce('monorail-edge.shopifysvc.com',
+      'trekkie_storefront_load_errors/1.1',
+      {shop_id: 7539939,
+      theme_id: 124705374269,
+      app_name: "storefront",
+      context_url: window.location.href,
+      source_url: "//www.becandle.com.hk/cdn/s/trekkie.storefront.fc3f1aabbbf42bade5d1a83f4ea8b04c184cf3f3.min.js"});
+
+        };
+        scriptFallback.async = true;
+        scriptFallback.src = '//www.becandle.com.hk/cdn/s/trekkie.storefront.fc3f1aabbbf42bade5d1a83f4ea8b04c184cf3f3.min.js';
+        first.parentNode.insertBefore(scriptFallback, first);
+      };
+      script.async = true;
+      script.src = '//www.becandle.com.hk/cdn/s/trekkie.storefront.fc3f1aabbbf42bade5d1a83f4ea8b04c184cf3f3.min.js';
+      first.parentNode.insertBefore(script, first);
+    };
+    trekkie.load(
+      {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":7539939,"isMerchantRequest":null,"themeId":124705374269,"themeCityHash":"14704172928133882060","contentLanguage":"en","currency":"HKD"},"isServerSideCookieWritingEnabled":true,"monorailRegion":"shop_domain"},"Google Analytics":{"trackingId":"UA-60324584-1","domain":"auto","siteSpeedSampleRate":"10","enhancedEcommerce":true,"doubleClick":true,"includeSearch":true},"Google Gtag Pixel":{"conversionId":"G-Q0YED0N76J","eventLabels":[{"type":"begin_checkout","action_label":"G-Q0YED0N76J"},{"type":"search","action_label":"G-Q0YED0N76J"},{"type":"view_item","action_label":["G-Q0YED0N76J","MC-P318P6JMXD"]},{"type":"purchase","action_label":["G-Q0YED0N76J","MC-P318P6JMXD"]},{"type":"page_view","action_label":["G-Q0YED0N76J","MC-P318P6JMXD"]},{"type":"add_payment_info","action_label":"G-Q0YED0N76J"},{"type":"add_to_cart","action_label":"G-Q0YED0N76J"}],"targetCountry":"HK"},"Session Attribution":{},"S2S":{"facebookCapiEnabled":false,"source":"trekkie-storefront-renderer"}}
+    );
+
+    var loaded = false;
+    trekkie.ready(function() {
+      if (loaded) return;
+      loaded = true;
+
+      window.ShopifyAnalytics.lib = window.trekkie;
+
+        ga('require', 'linker');
+      function addListener(element, type, callback) {
+        if (element.addEventListener) {
+          element.addEventListener(type, callback);
+        }
+        else if (element.attachEvent) {
+          element.attachEvent('on' + type, callback);
+        }
+      }
+      function decorate(event) {
+        event = event || window.event;
+        var target = event.target || event.srcElement;
+        if (target && (target.getAttribute('action') || target.getAttribute('href'))) {
+          ga(function (tracker) {
+            var linkerParam = tracker.get('linkerParam');
+            document.cookie = '_shopify_ga=' + linkerParam + '; ' + 'path=/';
+          });
+        }
+      }
+      addListener(window, 'load', function(){
+        for (var i=0; i < document.forms.length; i++) {
+          var action = document.forms[i].getAttribute('action');
+          if(action && action.indexOf('/cart') >= 0) {
+            addListener(document.forms[i], 'submit', decorate);
+          }
+        }
+        for (var i=0; i < document.links.length; i++) {
+          var href = document.links[i].getAttribute('href');
+          if(href && href.indexOf('/checkout') >= 0) {
+            addListener(document.links[i], 'click', decorate);
+          }
+        }
+      });
+    
+
+      var originalDocumentWrite = document.write;
+      document.write = customDocumentWrite;
+      try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+      document.write = originalDocumentWrite;
+
+      window.ShopifyAnalytics.lib.page(null,{"pageType":"product","resourceType":"product","resourceId":6585687539773});
+
+      var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
+      var token = match? match[1]: undefined;
+      if (!hasLoggedConversion(token)) {
+        setCookieIfConversion(token);
+        window.ShopifyAnalytics.lib.track("Viewed Product",{"currency":"HKD","variantId":39343637463101,"productId":6585687539773,"productGid":"gid:\/\/shopify\/Product\/6585687539773","name":"STUDIO Series, 400g Scented Candle - No. 00 OUD","price":"550.00","sku":"BCSSP400G000","brand":"BeCandle","variant":null,"category":"Scented candles","nonInteraction":true});
+      window.ShopifyAnalytics.lib.track("monorail:\/\/trekkie_storefront_viewed_product\/1.1",{"currency":"HKD","variantId":39343637463101,"productId":6585687539773,"productGid":"gid:\/\/shopify\/Product\/6585687539773","name":"STUDIO Series, 400g Scented Candle - No. 00 OUD","price":"550.00","sku":"BCSSP400G000","brand":"BeCandle","variant":null,"category":"Scented candles","nonInteraction":true,"referer":"https:\/\/www.becandle.com.hk\/products\/studio-serie-oud-400g"});
+      }
+    });
+
+
+        var eventsListenerScript = document.createElement('script');
+        eventsListenerScript.async = true;
+        eventsListenerScript.src = "//www.becandle.com.hk/cdn/shopifycloud/shopify/assets/shop_events_listener-a7c63dba65ccddc484f77541dc8ca437e60e1e9e297fe1c3faebf6523a0ede9b.js";
+        document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+
+})();</script>
+<script class="boomerang">
+(function () {
+  if (window.BOOMR && (window.BOOMR.version || window.BOOMR.snippetExecuted)) {
+    return;
+  }
+  window.BOOMR = window.BOOMR || {};
+  window.BOOMR.snippetStart = new Date().getTime();
+  window.BOOMR.snippetExecuted = true;
+  window.BOOMR.snippetVersion = 12;
+  window.BOOMR.application = "storefront-renderer";
+  window.BOOMR.themeName = "Be Candle";
+  window.BOOMR.themeVersion = "1.0.0";
+  window.BOOMR.shopId = 7539939;
+  window.BOOMR.themeId = 124705374269;
+  window.BOOMR.renderRegion = "gcp-asia-southeast1";
+  window.BOOMR.url =
+    "https://www.becandle.com.hk/cdn/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js";
+  var where = document.currentScript || document.getElementsByTagName("script")[0];
+  var parentNode = where.parentNode;
+  var promoted = false;
+  var LOADER_TIMEOUT = 3000;
+  function promote() {
+    if (promoted) {
+      return;
+    }
+    var script = document.createElement("script");
+    script.id = "boomr-scr-as";
+    script.src = window.BOOMR.url;
+    script.async = true;
+    parentNode.appendChild(script);
+    promoted = true;
+  }
+  function iframeLoader(wasFallback) {
+    promoted = true;
+    var dom, bootstrap, iframe, iframeStyle;
+    var doc = document;
+    var win = window;
+    window.BOOMR.snippetMethod = wasFallback ? "if" : "i";
+    bootstrap = function(parent, scriptId) {
+      var script = doc.createElement("script");
+      script.id = scriptId || "boomr-if-as";
+      script.src = window.BOOMR.url;
+      BOOMR_lstart = new Date().getTime();
+      parent = parent || doc.body;
+      parent.appendChild(script);
+    };
+    if (!window.addEventListener && window.attachEvent && navigator.userAgent.match(/MSIE [67]./)) {
+      window.BOOMR.snippetMethod = "s";
+      bootstrap(parentNode, "boomr-async");
+      return;
+    }
+    iframe = document.createElement("IFRAME");
+    iframe.src = "about:blank";
+    iframe.title = "";
+    iframe.role = "presentation";
+    iframe.loading = "eager";
+    iframeStyle = (iframe.frameElement || iframe).style;
+    iframeStyle.width = 0;
+    iframeStyle.height = 0;
+    iframeStyle.border = 0;
+    iframeStyle.display = "none";
+    parentNode.appendChild(iframe);
+    try {
+      win = iframe.contentWindow;
+      doc = win.document.open();
+    } catch (e) {
+      dom = document.domain;
+      iframe.src = "javascript:var d=document.open();d.domain='" + dom + "';void(0);";
+      win = iframe.contentWindow;
+      doc = win.document.open();
+    }
+    if (dom) {
+      doc._boomrl = function() {
+        this.domain = dom;
+        bootstrap();
+      };
+      doc.write("<body onload='document._boomrl();'>");
+    } else {
+      win._boomrl = function() {
+        bootstrap();
+      };
+      if (win.addEventListener) {
+        win.addEventListener("load", win._boomrl, false);
+      } else if (win.attachEvent) {
+        win.attachEvent("onload", win._boomrl);
+      }
+    }
+    doc.close();
+  }
+  var link = document.createElement("link");
+  if (link.relList &&
+    typeof link.relList.supports === "function" &&
+    link.relList.supports("preload") &&
+    ("as" in link)) {
+    window.BOOMR.snippetMethod = "p";
+    link.href = window.BOOMR.url;
+    link.rel = "preload";
+    link.as = "script";
+    link.addEventListener("load", promote);
+    link.addEventListener("error", function() {
+      iframeLoader(true);
+    });
+    setTimeout(function() {
+      if (!promoted) {
+        iframeLoader(true);
+      }
+    }, LOADER_TIMEOUT);
+    BOOMR_lstart = new Date().getTime();
+    parentNode.appendChild(link);
+  } else {
+    iframeLoader(false);
+  }
+  function boomerangSaveLoadTime(e) {
+    window.BOOMR_onload = (e && e.timeStamp) || new Date().getTime();
+  }
+  if (window.addEventListener) {
+    window.addEventListener("load", boomerangSaveLoadTime, false);
+  } else if (window.attachEvent) {
+    window.attachEvent("onload", boomerangSaveLoadTime);
+  }
+  if (document.addEventListener) {
+    document.addEventListener("onBoomerangLoaded", function(e) {
+      e.detail.BOOMR.init({
+        ResourceTiming: {
+          enabled: true,
+          trackedResourceTypes: ["script", "img", "css"]
+        },
+      });
+      e.detail.BOOMR.t_end = new Date().getTime();
+    });
+  } else if (document.attachEvent) {
+    document.attachEvent("onpropertychange", function(e) {
+      if (!e) e=event;
+      if (e.propertyName === "onBoomerangLoaded") {
+        e.detail.BOOMR.init({
+          ResourceTiming: {
+            enabled: true,
+            trackedResourceTypes: ["script", "img", "css"]
+          },
+        });
+        e.detail.BOOMR.t_end = new Date().getTime();
+      }
+    });
+  }
+})();</script>
+</head>
+
+  <body
+    id="studio-series-400g-scented-candle-no-00-oud"
+    class="template-product"
+  >
+    <!-- Google Tag Manager (noscript) -->
+    <noscript
+      ><iframe
+        src="https://www.googletagmanager.com/ns.html?id=GTM-KH2G45V"
+        height="0"
+        width="0"
+        style="display:none;visibility:hidden"
+      ></iframe
+    ></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <a class="in-page-link visually-hidden skip-link" href="#MainContent">Skip to content</a>
+
+    <div id="shopify-section-announcement" class="shopify-section"><div class="announcement__wrapper"
+    data-announcement-wrapper
+    data-section-id="announcement"
+    data-section-type="announcement">
+    
+    <div class="announcement__font font--3"><div class="announcement__bar-outer" data-bar style="--bg: var(---color-announcement-bg); --text: var(---color-announcement-text);"><div class="announcement__bar-holder" data-announcement-slider data-slider-speed="5000">
+              <div data-slide="announce_shipping"
+      data-slide-index="0"
+      
+class="announcement__bar"
+ >
+                  <div data-ticker-frame class="announcement__message">
+                    <div data-ticker-scale class="ticker--unloaded announcement__scale">
+                      <div data-ticker-text class="announcement__text">
+                        
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+
+  
+  
+  
+
+  
+
+  <p class="cart__message " data-cart-message="true" data-limit="400">
+      
+      
+      
+
+      
+
+      <small class="cart__graph">
+        
+          <small class="cart__graph-dot cart__graph-dot--1"></small>
+        
+          <small class="cart__graph-dot cart__graph-dot--2"></small>
+        
+          <small class="cart__graph-dot cart__graph-dot--3"></small>
+        
+          <small class="cart__graph-dot cart__graph-dot--4"></small>
+        
+          <small class="cart__graph-dot cart__graph-dot--5"></small>
+        
+          <small class="cart__graph-dot cart__graph-dot--6"></small>
+        
+<svg height="18" width="18">
+          <circle r="7" cx="9" cy="9" />
+          <circle class="cart__graph-progress" stroke-dasharray="87.96459430051421 87.96459430051421" style="stroke-dashoffset: 87.96459430051421" data-cart-progress data-percent="0" r="7" cx="9" cy="9" />
+        </svg>
+      </small>
+    
+
+    
+      <span class="cart__message-success">Congratulations! Your order qualifies for free shipping</span>
+    
+
+    <span class="cart__message-default">
+      Spend ||HKD400|| or more for free HK local shipping.
+    </span>
+  </p>
+
+                      </div>
+                    </div>
+                  </div>
+                </div>
+            </div></div></div>
+  </div>
+</div>
+    <div id="shopify-section-header" class="shopify-section"><style>
+  :root {
+    ---color-nav-text-transparent: #ffffff;
+    --menu-height: calc(80px);
+  }
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+<div
+  class="header__wrapper"
+  data-header-wrapper
+  style="--bar-opacity: 0; --bar-width: 0; --bar-left: 0;"
+  data-header-transparent="false"
+  data-underline-current="false"
+  data-header-sticky="sticky"
+  data-header-style="split"
+  data-section-id="header"
+  data-section-type="header"
+>
+  <header class="theme__header" role="banner" data-header-height>
+    <div class="wrapper">
+      <div class="header__mobile">
+        
+    <div class="header__mobile__left">
+      <button class="header__mobile__button"      
+        data-drawer-toggle="hamburger"
+        aria-label="Open menu" 
+        aria-haspopup="true" 
+        aria-expanded="false" 
+        aria-controls="header-menu">
+        <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-nav" viewBox="0 0 25 25"><path d="M0 4.062h25v2H0zm0 7h25v2H0zm0 7h25v2H0z"/></svg>
+      </button>
+    </div>
+    
+<div class="header__logo">
+    <a class="header__logo__link" 
+        href="/"
+        style="width: 150px;">
+      
+        <div
+         class="header__logo__svg"
+         style="width: 150px;">
+          <span><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon--wide logo-becandle" viewBox="0 0 1000 312"><path d="M425.2 158.6c.3-.9.7-1.8 1-2.7 1.2-3.4 2.2-7.1 3.2-11.3.8-3.4 1.4-6.9 1.9-10.3.3-2-1-4-3-4.5h-.2c-2-.4-3.9.8-4.7 2.6-1.7 3.6-3.8 7.5-6.2 11.4-2.7 4.5-6.2 8.6-10.4 12.3-4.2 3.7-9.2 6.8-15.1 9.1-5.8 2.4-12.7 3.5-20.6 3.5-8.1 0-16.1-1.6-24.1-4.9-7.9-3.3-15-8.3-21.3-14.9-6.2-6.7-11.3-15-15.2-25.1-3.9-10-5.8-21.8-5.8-35.3 0-13 1.9-24.2 5.6-33.5 3.7-9.4 8.6-17.1 14.7-23.2 6.1-6.1 13-10.6 20.6-13.5 10.4-4 22.5-5.6 33.3-1.7 12.8 4.7 18.5 17.1 28.1 25.7 3.4 3.1 7.5 5.3 12.2 5.3 6.9 0 13.1-3.6 13.1-10.7 0-10.8-12.4-19.3-20.8-23.8-16.6-8.6-36-10.6-54.5-8.6-7.6.8-15.2 2.5-22.5 4.7-12.2 3.6-23 9-32.4 16.1-9.5 7.3-17.1 16.5-23 27.8-5.9 11.3-8.9 24.4-8.9 39.2 0 16.5 3.4 30.6 10.3 42.2 6.8 11.6 15.4 20.7 25.7 27.5 9.1 5.9 19 10.2 29.7 12.9 10.7 2.7 22.4 4 35.1 4 4 0 8.1-.3 12.3-.8 4.1-.5 8-1.1 11.5-1.6 12-2 25.6-5 30.4-17.9zM127.6 97.8c-3.9-3.6-8.3-6.3-13.2-8.3-4.9-1.9-9.8-3.3-14.5-4.2-1.7-.3-2-1-2-1.5 0-.7.5-1.2 1.5-1.5 9-2.9 16-7.1 21.1-12.6 5.1-5.5 7.6-12.1 7.6-19.7 0-8.1-1.5-14.8-4.5-20.1-2.6-4.6-6.4-8.6-11.3-11.7-2.2-1.5-4.7-2.8-7.5-4-3-1.3-6.4-2.4-10-3.1-34.1-7-90.5-.8-90.5-.8C2.4 10.5.9 12.1.9 14c0 1.9 1.5 3.6 3.4 3.8l4.5.5c3.1.3 5.4.9 7 1.7 1.6.8 2.8 2.1 3.6 4.1.8 2 1.2 4.7 1.4 8.4.1 3.7.2 8.5.2 14.6v93.1c0 6.8-.2 12-.5 15.8-.3 3.7-1 6.5-2 8.4-1 1.9-2.5 3.1-4.3 3.7-1.9.6-4.3 1.1-7.4 1.4l-3.3.5c-2.1.3-3.6 2.1-3.5 4.2v.2c.1 1.9 1.9 3.4 3.8 3.3h54.5c3 .1 6.1.1 9.2.1 14.6 0 26.4-1.1 35.4-3.4s16.5-5.9 22.4-10.8c5.9-4.7 10-10.1 12.2-16 2.2-5.9 3.3-11.9 3.3-17.8 0-7.1-1.2-13.3-3.7-18.6-2.4-5.5-5.6-9.9-9.5-13.4zm-22 50.5c-1.8 4.3-4.2 7.9-7.3 10.7-3.1 2.8-6.6 4.9-10.6 6.4-4 1.4-8.2 2.2-12.6 2.2-4.1 0-7.6-.3-10.5-1-12.7-3.1-14.2-13.9-14.2-20.3V29.1c0-2.5.1-4.5.3-6 .2-1.4.7-2.5 1.7-3.2.9-.7 2.3-1.1 4.1-1.3 1.8-.2 4.3-.3 7.5-.3 3.9 0 7.8.6 11.7 1.8 3.9 1.2 7.4 3 10.4 5.5 3.1 2.5 5.5 5.7 7.4 9.7 1.9 4 2.8 8.8 2.8 14.4 0 11.5-2.8 19.8-8.4 24.8-1.3 1.2-2.8 2.2-4.3 3-1.7.9-3.5 1.7-5.3 2.2-2.1.7-4.2 1.1-6.3 1.5-1.2.2-2.3.3-3.5.4-1.3.1-2.7.2-4 .3-.9.1-1.9.4-2.6 1-1.2.9-1.9 2.3-1.9 3.8v.1c0 1.9 1.2 3.7 2.9 4.4 1.1.5 2.5.4 3.7.5l3.6.3c2.3.2 4.5.6 6.8 1.1 2.1.5 4.2 1.1 6.2 1.8 1.9.7 3.8 1.6 5.6 2.5 1.8 1 3.4 2 5 3.3.7.6 1.4 1.1 2.1 1.7 8.2 7.3 12.3 17.6 12.3 30.8.1 5.8-.8 10.7-2.6 15.1zM231 12.2c-3.6-2.9-7.6-5.1-12.2-6.6s-9.2-2.3-14-2.3c-8.5 0-16 1.6-22.7 4.8-6.7 3.2-12.3 7.4-16.9 12.7-4.6 5.2-8 11.3-10.4 18-2.4 6.8-3.6 13.7-3.6 20.8 0 7.3 1.2 14 3.6 20.2 2.4 6.2 5.7 11.5 9.9 16.1 4.2 4.6 9.3 8.1 15.4 10.7 6 2.5 12.7 3.8 20.2 3.8 3.9 0 7.9-.5 12.1-1.5 4.1-1 8.1-2.6 11.9-4.8 3.8-2.2 7.4-5.1 10.7-8.6 2.9-3.1 5.4-6.8 7.4-11.1.8-1.7.4-3.7-1.1-4.9-1.5-1.2-3.5-.9-4.6.6-2.7 3.9-5.9 6.7-9.6 8.4-4.2 1.9-8.8 2.8-13.8 2.8-5.6 0-10.7-1.1-15.5-3.2-4.7-2.1-8.8-5-12.2-8.8-3.4-3.7-6-8.1-7.9-13.1-1.4-3.8-2.3-7.8-2.6-12-.1-1.5-.2-2.9-.2-4v-.7c0-12.4 3.6-20.3 3.6-20.3 1-2.4 2.5-4.9 4.6-7.2 2-2.4 4.6-4.4 7.7-6.2 3.1-1.8 6.8-3 11-3 5.4 0 9.6 2 12.4 5.2 2.2 2.4 3.6 5.4 4.1 8.7.5 3.2.3 7.3-3.3 8.8-3.1 1.3-4.8 1.3-9.1 1.3h-16.3c-2.5 0-4.7 1.9-5 4.3-.4 3.1 1.9 5.8 5 5.8h34.5c4.9 0 8.8-.3 11.7-.8 4-.7 7.1-4.2 7.1-8.3v-.1c0-5.6-1.1-10.5-3.3-14.7-2.2-4.4-5-7.9-8.6-10.8zm454 155.7l-3.5-.5c-2.2-.3-3.9-.8-5.2-1.5-1.3-.7-2.2-1.8-2.9-3.4-.7-1.6-1.1-3.8-1.3-6.6-.2-2.8-.3-6.6-.3-11.3v-39.3c0-10-2.5-18.1-7.4-24.5-4.9-6.3-12.5-9.5-22.8-9.5-3.9 0-7.4.3-10.4 1s-5.9 1.6-8.5 2.8c-2.3 1-4.6 2.2-6.7 3.5-1.2.7-1.9 2.1-2 3.5 0 3.1 2.8 5.5 5.8 4.9 2.9-.6 5-.5 5-.5.8 0 1.5 0 2.2.1 4.4.4 14 2.7 17.1 14.6.1.4.2.7.3 1.1 0 .2.1.4.1.6.1.6.2 1.1.3 1.7v.3c.1.6.1 1.3.2 2v.3c0 .8.1 1.5.1 2.3v35c0 4.7-.1 8.5-.3 11.3-.2 2.8-.6 5-1.3 6.7-.7 1.7-1.6 2.9-2.9 3.6-1.3.7-3 1.2-5.2 1.5l-1.4.2c-2.1.3-3.7 2.1-3.6 4.3.1 1.9 1.7 3.4 3.6 3.3 8.1-.4 16.1-.7 23.9-.7 4.7 0 9.3 0 13.8.1 3.9.1 8.2.2 12.8.5 1.9.1 3.6-1.4 3.7-3.3v-.1c.4-1.9-1.2-3.7-3.2-4zm136.6-1.3c-.1-2.4-2.5-4.1-4.8-3.4-2.7.8-5.2 1.2-7.5 1.2-2.2 0-3.8-2.3-4.7-6.9-.9-4.6-1.4-12.6-1.4-24.1V30.8c0-3.2 0-6.5.1-9.8s.2-6.5.3-9.6c.1-2.8.2-5.3.3-7.6.1-.9-.2-1.7-.9-2.3-.6-.6-1.4-.8-2.3-.7-.2 0-.5.1-.7.2l-3 1.2c-2 .8-4.1 1.6-6.1 2.4l-18.5 6.8c-.5.2-1 .3-1.5.5-2.2.5-5 1.2-5 4 0 2.6 1.7 3.3 3.7 4.6 1.8 1.2 4 2.3 5.1 4.3 1.7 3 1.6 6.7 1.7 10 0 .9.1 1.9.1 2.8v112.9c0 3.6-.6 5.9-1.8 7.1-1 1.2-3 2.4-6 3.7-3 1.3-6 1.9-9 1.9-4.6 0-8.8-1-12.6-3-3.8-2-7.2-4.9-10-8.8-2.9-3.8-5.1-8.4-6.7-13.7-1.6-5.3-2.4-11.3-2.4-17.9 0-5.2.7-10.2 2-15 1.4-4.7 3.2-8.8 5.6-12.2 2.4-3.4 5.3-6.1 8.8-8.1 3.5-2 7.4-3 11.8-3 1.7 0 3.2.2 4.6.6 3.2.8 6.3-1.8 6.3-5v-.5c0-2.8-2.3-5.1-5.1-5.2h-1.7c-8 0-15.6 1.3-23 3.9-7.4 2.6-13.8 6.5-19.4 11.5-5.6 5.1-10.1 11.2-13.5 18.4-3.4 7.2-5.1 15.4-5.1 24.5 0 6.4 1.1 12.6 3.3 18.4 2.2 5.8 5.3 11 9.4 15.5 4.1 4.5 9 8.1 14.7 10.8 5.7 2.7 12.3 4.1 19.5 4.1 6.1 0 11.5-1.2 16.2-3.6 4.5-2.3 8.7-4.7 12.4-7.5.4-.3.8-.4 1.2-.2.4.1.7.4.7.8.1.7.2 1.8.2 3.1 0 1.9-.1 3.7-.4 5.6l-.1.6c-.1.8.1 1.6.5 2.2.8 1.1 2.3 1.5 3.5 1 2-.8 4.3-1.7 7.1-2.5 3.3-1 6.8-1.9 10.4-2.8 3.6-.8 7.3-1.6 11-2.3 2.9-.5 5.7-1 8.3-1.3 2.7-.4 4.5-2.5 4.4-5zm150.5-63.4c-3.1 1.3-4.8 1.3-9.1 1.3h-16.3c-2.5 0-4.7 1.9-5 4.3-.4 3.1 1.9 5.8 5 5.8h34.5c4.9 0 8.8-.3 11.7-.8 4-.7 7.1-4.2 7.1-8.3v-.1c0-5.6-1.1-10.5-3.3-14.7-2.2-4.2-5.1-7.8-8.6-10.7-3.6-2.9-7.6-5.1-12.2-6.6s-9.2-2.3-14-2.3c-8.5 0-16 1.6-22.7 4.8-6.7 3.2-12.3 7.4-16.9 12.7-4.6 5.2-8 11.3-10.4 18-2.4 6.8-3.6 13.7-3.6 20.8 0 7.3 1.2 14 3.6 20.2 2.4 6.2 5.7 11.5 9.9 16.1 4.2 4.6 9.3 8.1 15.4 10.7 6 2.5 12.7 3.8 20.2 3.8 3.9 0 7.9-.5 12.1-1.5 4.1-1 8.1-2.6 11.9-4.8 3.8-2.2 7.4-5.1 10.7-8.6 2.9-3.1 5.4-6.8 7.4-11.1.8-1.7.4-3.7-1.1-4.9-1.5-1.2-3.5-.9-4.6.6-2.7 3.9-5.9 6.7-9.6 8.4-4.2 1.9-8.8 2.8-13.8 2.8-5.6 0-10.7-1.1-15.5-3.2-4.7-2.1-8.8-5-12.2-8.8-3.4-3.7-6-8.1-7.9-13.1-1.4-3.8-2.3-7.8-2.6-12-.1-1.5-.2-2.9-.2-4v-.7c0-12.4 3.6-20.3 3.6-20.3 1-2.4 2.5-4.9 4.6-7.2 2-2.4 4.6-4.4 7.7-6.2 3.1-1.8 6.8-3 11-3 5.4 0 9.6 2 12.4 5.2 2.2 2.4 3.6 5.4 4.1 8.7.5 3.2.3 7.2-3.3 8.7zm-80.8 64.7l-3.1-.4c-2.2-.3-3.9-.8-5.2-1.5-1.3-.7-2.2-1.8-2.9-3.4-.7-1.6-1.1-3.8-1.3-6.6-.2-2.8-.3-6.6-.3-11.3V30.8c0-3.2 0-6.5.1-9.8.1-3.3.2-6.5.3-9.6.1-2.8.2-5.3.3-7.6.1-.9-.2-1.7-.9-2.3-.6-.6-1.4-.8-2.3-.7-.2 0-.4.1-.7.2L844 12.5h-.2c-1.5.6-2.7 1.5-2.7 3.3 0 2.6 1.7 3.3 3.7 4.6 1.8 1.2 4 2.3 5.1 4.3 1.6 2.7 1.6 6.1 1.7 9.1.1 3.1.1 6.2.1 9.4v101.4c0 4.7-.1 8.5-.3 11.3-.2 2.8-.6 5-1.3 6.6-.7 1.6-1.6 2.8-2.9 3.4-1.3.7-3 1.2-5.2 1.5l-3 .4c-2.1.3-3.6 2.1-3.5 4.2v.2c.1 1.9 1.7 3.4 3.6 3.3 9.5-.4 18-.7 25.4-.7 4.7 0 9.3 0 13.8.1 3.9.1 8.1.2 12.5.5 1.9.1 3.6-1.3 3.7-3.2v-.1-.1c.5-2-1.1-3.8-3.2-4.1zm-272.1 4.2c0-2.1-1.5-3.9-3.6-4.2l-1.4-.2c-2.2-.3-3.9-.8-5.2-1.5-1.3-.7-2.2-1.9-2.9-3.6-.7-1.7-1.1-3.9-1.3-6.7-.2-2.8-.3-6.6-.3-11.3V78.3 70c0-.9-.5-1.8-1.4-2.1-.8-.3-1.6-.1-2.3.3-1.8 1-3.9 2.1-6.2 3.2-2.7 1.3-5.5 2.5-8.4 3.8-2.9 1.3-5.8 2.5-8.9 3.6-2.4.9-4.6 1.6-6.8 2.2-1.5.4-2.6 1.8-2.6 3.4v.1c0 2.2 1.5 3.4 3.2 4.3 1.3.7 2.5 1.6 3.5 2.6 2.5 2.7 3 5.6 3.1 8.8.1 1.9.1 4.2.1 7.1v37.3c0 4.7-.1 8.5-.3 11.3-.2 2.8-.6 5-1.3 6.6-.7 1.6-1.7 2.8-2.9 3.4-1.3.7-3 1.2-5.2 1.5l-2.8.4c-1.6.2-3 1.2-3.6 2.6-1.2 2.8 1.1 5.1 3.6 5 4.5-.3 8.7-.4 12.5-.5 4.4-.1 8.6-.1 12.7-.1 8.3 0 16.6.2 24.8.6 2.1.2 3.8-1.4 3.9-3.3zm-72-10c-.7-.1-1.3.5-2.9 1.4-1.6.9-3.5 1.4-5.7 1.4-9 0-13-7.4-12.2-22.3l1.8-39.6c.5-11.2-2.1-19.2-7.7-24.2-5.7-5-13.6-7.5-23.7-7.5-5.5 0-11 1.5-16.1 3.2-5.7 1.9-11.2 4.5-16.2 7.8-6.7 4.4-13.3 10-16.1 17.8-.4 1.1-.6 2.4-.4 3.6.9 5.6 8 4 11.8 3 4.4-1.2 8.9-2.6 11.6-6.5 1.4-2 1.9-4.2 2.3-6.6.5-3.1 2.1-6.3 4.6-8.2 2.4-1.9 5.5-2.8 9-2.8 3 0 5.6.6 7.7 1.9 2.1 1.3 3.8 3 4.9 5.2 1.2 2.2 2 4.8 2.4 7.7.3 2.2.5 4.5.4 6.8l-.1 2.5-1.1 30.6-.3 10.4c-.2 5.7-.3 12.7-6.3 15.5-2.8 1.3-6.2 1.5-9.2.9-6.6-1.3-11-8-11-14.5 0-2.7.4-5 1.1-6.9.8-1.9 1.8-3.4 3-4.7 1.3-1.3 2.7-2.3 4.3-3.2 1.6-.8 3.3-1.6 5.2-2.3.4-.2.9-.3 1.4-.5 1.8-.6 3-2.3 3.1-4.2.1-3.3-3.1-5.7-6.2-4.6-3.3 1.1-6.6 2.3-9.9 3.5-9.4 3.4-21.1 6.6-26.4 15.9-1 1.7-1.7 3.5-2.1 5.4-.1.5-.2.9-.3 1.4-1.9 10.2 3.2 21.1 12.4 25.9 1.6.8 3.2 1.5 5 1.9 3.8 1 7.7 1.2 11.6.8 3.9-.4 7.8-1.5 11.4-3 3.7-1.5 7-3.6 10.3-5.8 1.3-.8 3-1.6 4.5-.9 1.1.5 2 1.8 2.9 2.7 1 1.1 2.1 2.1 3.3 3 1.6 1.1 3.4 2 5.2 2.6 3.3 1 6.6 1.5 9.8 1.5 2 0 4.2-.3 6.6-.8 2.4-.5 4.7-1.2 7.1-2.2 2.4-.9 4.6-2.1 6.6-3.4 1.6-1.1 3-2.3 4.1-3.6 1.1-1.3 1.4-3.1.6-4.6-.8-.8-1.4-1.3-2.1-1.4zM367.6 293.7l-28.8-37.1h-8.7v53.7h9.3v-38.2l29.6 38.2h7.9v-53.7h-9.3v37.1zm-75.2-6.2c0 9.9-5.1 14.9-13.5 14.9s-13.6-5.4-13.6-15.3v-30.5h-9.4v30.9c0 15.6 8.9 23.6 22.8 23.6 14 0 23.1-8 23.1-24.1v-30.4h-9.4v30.9zm-144.5 22.8h9.4v-53.7h-9.4v53.7zm85.6-53.7H222l-25.5 27v-27H187v53.7h9.4v-15.6l8.4-8.6 18.3 24.2h11.4l-23.3-30.6 22.3-23.1zM29 279.1c-10.3-2.5-12.7-4.3-12.7-8.4v-.2c0-3.5 3.2-6.4 8.7-6.4 4.9 0 9.7 1.9 14.6 5.5l5.1-7.1c-5.4-4.4-11.7-6.7-19.5-6.7-10.7 0-18.3 6.4-18.3 15.6v.2c0 9.9 6.4 13.3 17.9 16 10 2.3 12.1 4.4 12.1 8.2v.2c0 4.1-3.7 6.7-9.5 6.7-6.7 0-11.8-2.5-16.9-7l-5.7 6.7c6.4 5.7 14.2 8.6 22.4 8.6 11.3 0 19.2-6 19.2-16v-.2c-.2-8.8-6.1-12.9-17.4-15.7zm61.5-22.9l-23.6 54.1h9.7l5.5-13h25.4l5.4 13h10l-23.6-54.1h-8.8zm-5 32.8l9.2-21.5L104 289H85.5zm884.3 13l11-9.2c9.5-7.7 14-12.3 14-20.8v-.2c0-9.6-7.2-16-17.7-16-9.6 0-14.6 4.1-19.8 11.3l6.7 5.2c4.1-5.4 7.5-8 12.4-8s8.7 3.1 8.7 8.4c0 4.8-2.7 8.3-10 14.5l-18.5 15.7v7.4h38.8V302h-25.6zm-402.3-14.6h26.9V279h-26.9v-14h30.4v-8.4h-39.8v53.7h40.2v-8.4h-30.7v-14.5zm234.9 5.4c9.5-7.7 14-12.3 14-20.8v-.2c0-9.6-7.2-16-17.7-16-9.6 0-14.6 4.1-19.8 11.3l6.7 5.2c4.1-5.4 7.5-8 12.4-8s8.7 3.1 8.7 8.4c0 4.8-2.7 8.3-10 14.5l-18.5 15.7v7.4H817V302h-25.5l10.9-9.2zm-58.8 17.5h10.2v-10.5h-10.2v10.5zm165.5-49.5l2 7.7 9.7-2.7v44.5h9.4v-54.1h-6.6l-14.5 4.6zm-44.6-5.1c-14.1 0-23.5 12.4-23.5 27.8v.2c0 15.3 9.2 27.6 23.3 27.6s23.5-12.4 23.5-27.8v-.2c0-15.3-9.3-27.6-23.3-27.6zm13.6 27.9c0 10.6-5.2 19.1-13.6 19.1-8.4 0-13.7-8.7-13.7-19.2v-.2c0-10.7 5.3-19.1 13.6-19.1s13.7 8.7 13.7 19.2v.2zm-194-18.2h17v44.9h9.5v-44.9h17v-8.7h-43.5v8.7zM431 288.5h13.7v10c-3.3 2.5-7.9 4.1-13 4.1-11 0-18.2-8.1-18.2-19.2v-.2c0-10.3 7.5-18.9 17.4-18.9 6.8 0 10.9 2.2 15 5.7l6-7.1c-5.5-4.7-11.3-7.3-20.6-7.3-16.2 0-27.7 12.7-27.7 27.8v.2c0 15.6 11 27.6 27.8 27.6 9.5 0 17.1-3.8 22.4-8.4v-22.5H431v8.2zm214.4-9.4c-10.3-2.5-12.7-4.3-12.7-8.4v-.2c0-3.5 3.2-6.4 8.7-6.4 4.9 0 9.7 1.9 14.6 5.5l5.1-7.1c-5.4-4.4-11.6-6.7-19.5-6.7-10.7 0-18.3 6.4-18.3 15.6v.2c0 9.9 6.4 13.3 17.9 16 10 2.3 12.1 4.4 12.1 8.2v.2c0 4.1-3.7 6.7-9.5 6.7-6.7 0-11.8-2.5-16.9-7l-5.7 6.7c6.4 5.7 14.2 8.6 22.4 8.6 11.3 0 19.2-6 19.2-16v-.2c-.1-8.8-6-12.9-17.4-15.7z"/></svg></span>
+        </div>
+      
+      
+
+      
+    </a>
+  </div>
+
+    <div class="header__mobile__right">
+      <a class="header__mobile__button"
+       data-drawer-toggle="drawer-cart"
+        href="/cart">
+        <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-cart" viewBox="0 0 25 25"><path d="M5.058 23a2 2 0 104.001-.001A2 2 0 005.058 23zm12.079 0c0 1.104.896 2 2 2s1.942-.896 1.942-2-.838-2-1.942-2-2 .896-2 2zM0 1a1 1 0 001 1h1.078l.894 3.341L5.058 13c0 .072.034.134.042.204l-1.018 4.58A.997.997 0 005.058 19h16.71a1 1 0 000-2H6.306l.458-2.061c.1.017.19.061.294.061h12.31c1.104 0 1.712-.218 2.244-1.5l3.248-6.964C25.423 4.75 24.186 4 23.079 4H5.058c-.157 0-.292.054-.438.088L3.844.772A1 1 0 002.87 0H1a1 1 0 00-1 1zm5.098 5H22.93l-3.192 6.798c-.038.086-.07.147-.094.19-.067.006-.113.012-.277.012H7.058v-.198l-.038-.195L5.098 6z"/></svg>
+        <span class="visually-hidden">Cart</span>
+        
+  <span class="header__cart__status">
+    <span data-header-cart-price="0">
+      <span class=money>$0.00</span>
+    </span>
+    <span data-header-cart-count="0">
+      (0)
+    </span>
+    
+<span data-header-cart-full="false"></span>
+  </span>
+
+      </a>
+    </div>
+
+      </div>
+      <div data-header-desktop class="header__desktop header__desktop--split"><div data-takes-space class="header__desktop__bar__l">
+              
+<div class="header__logo">
+    <a class="header__logo__link" 
+        href="/"
+        style="width: 150px;">
+      
+        <div
+         class="header__logo__svg"
+         style="width: 150px;">
+          <span><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon--wide logo-becandle" viewBox="0 0 1000 312"><path d="M425.2 158.6c.3-.9.7-1.8 1-2.7 1.2-3.4 2.2-7.1 3.2-11.3.8-3.4 1.4-6.9 1.9-10.3.3-2-1-4-3-4.5h-.2c-2-.4-3.9.8-4.7 2.6-1.7 3.6-3.8 7.5-6.2 11.4-2.7 4.5-6.2 8.6-10.4 12.3-4.2 3.7-9.2 6.8-15.1 9.1-5.8 2.4-12.7 3.5-20.6 3.5-8.1 0-16.1-1.6-24.1-4.9-7.9-3.3-15-8.3-21.3-14.9-6.2-6.7-11.3-15-15.2-25.1-3.9-10-5.8-21.8-5.8-35.3 0-13 1.9-24.2 5.6-33.5 3.7-9.4 8.6-17.1 14.7-23.2 6.1-6.1 13-10.6 20.6-13.5 10.4-4 22.5-5.6 33.3-1.7 12.8 4.7 18.5 17.1 28.1 25.7 3.4 3.1 7.5 5.3 12.2 5.3 6.9 0 13.1-3.6 13.1-10.7 0-10.8-12.4-19.3-20.8-23.8-16.6-8.6-36-10.6-54.5-8.6-7.6.8-15.2 2.5-22.5 4.7-12.2 3.6-23 9-32.4 16.1-9.5 7.3-17.1 16.5-23 27.8-5.9 11.3-8.9 24.4-8.9 39.2 0 16.5 3.4 30.6 10.3 42.2 6.8 11.6 15.4 20.7 25.7 27.5 9.1 5.9 19 10.2 29.7 12.9 10.7 2.7 22.4 4 35.1 4 4 0 8.1-.3 12.3-.8 4.1-.5 8-1.1 11.5-1.6 12-2 25.6-5 30.4-17.9zM127.6 97.8c-3.9-3.6-8.3-6.3-13.2-8.3-4.9-1.9-9.8-3.3-14.5-4.2-1.7-.3-2-1-2-1.5 0-.7.5-1.2 1.5-1.5 9-2.9 16-7.1 21.1-12.6 5.1-5.5 7.6-12.1 7.6-19.7 0-8.1-1.5-14.8-4.5-20.1-2.6-4.6-6.4-8.6-11.3-11.7-2.2-1.5-4.7-2.8-7.5-4-3-1.3-6.4-2.4-10-3.1-34.1-7-90.5-.8-90.5-.8C2.4 10.5.9 12.1.9 14c0 1.9 1.5 3.6 3.4 3.8l4.5.5c3.1.3 5.4.9 7 1.7 1.6.8 2.8 2.1 3.6 4.1.8 2 1.2 4.7 1.4 8.4.1 3.7.2 8.5.2 14.6v93.1c0 6.8-.2 12-.5 15.8-.3 3.7-1 6.5-2 8.4-1 1.9-2.5 3.1-4.3 3.7-1.9.6-4.3 1.1-7.4 1.4l-3.3.5c-2.1.3-3.6 2.1-3.5 4.2v.2c.1 1.9 1.9 3.4 3.8 3.3h54.5c3 .1 6.1.1 9.2.1 14.6 0 26.4-1.1 35.4-3.4s16.5-5.9 22.4-10.8c5.9-4.7 10-10.1 12.2-16 2.2-5.9 3.3-11.9 3.3-17.8 0-7.1-1.2-13.3-3.7-18.6-2.4-5.5-5.6-9.9-9.5-13.4zm-22 50.5c-1.8 4.3-4.2 7.9-7.3 10.7-3.1 2.8-6.6 4.9-10.6 6.4-4 1.4-8.2 2.2-12.6 2.2-4.1 0-7.6-.3-10.5-1-12.7-3.1-14.2-13.9-14.2-20.3V29.1c0-2.5.1-4.5.3-6 .2-1.4.7-2.5 1.7-3.2.9-.7 2.3-1.1 4.1-1.3 1.8-.2 4.3-.3 7.5-.3 3.9 0 7.8.6 11.7 1.8 3.9 1.2 7.4 3 10.4 5.5 3.1 2.5 5.5 5.7 7.4 9.7 1.9 4 2.8 8.8 2.8 14.4 0 11.5-2.8 19.8-8.4 24.8-1.3 1.2-2.8 2.2-4.3 3-1.7.9-3.5 1.7-5.3 2.2-2.1.7-4.2 1.1-6.3 1.5-1.2.2-2.3.3-3.5.4-1.3.1-2.7.2-4 .3-.9.1-1.9.4-2.6 1-1.2.9-1.9 2.3-1.9 3.8v.1c0 1.9 1.2 3.7 2.9 4.4 1.1.5 2.5.4 3.7.5l3.6.3c2.3.2 4.5.6 6.8 1.1 2.1.5 4.2 1.1 6.2 1.8 1.9.7 3.8 1.6 5.6 2.5 1.8 1 3.4 2 5 3.3.7.6 1.4 1.1 2.1 1.7 8.2 7.3 12.3 17.6 12.3 30.8.1 5.8-.8 10.7-2.6 15.1zM231 12.2c-3.6-2.9-7.6-5.1-12.2-6.6s-9.2-2.3-14-2.3c-8.5 0-16 1.6-22.7 4.8-6.7 3.2-12.3 7.4-16.9 12.7-4.6 5.2-8 11.3-10.4 18-2.4 6.8-3.6 13.7-3.6 20.8 0 7.3 1.2 14 3.6 20.2 2.4 6.2 5.7 11.5 9.9 16.1 4.2 4.6 9.3 8.1 15.4 10.7 6 2.5 12.7 3.8 20.2 3.8 3.9 0 7.9-.5 12.1-1.5 4.1-1 8.1-2.6 11.9-4.8 3.8-2.2 7.4-5.1 10.7-8.6 2.9-3.1 5.4-6.8 7.4-11.1.8-1.7.4-3.7-1.1-4.9-1.5-1.2-3.5-.9-4.6.6-2.7 3.9-5.9 6.7-9.6 8.4-4.2 1.9-8.8 2.8-13.8 2.8-5.6 0-10.7-1.1-15.5-3.2-4.7-2.1-8.8-5-12.2-8.8-3.4-3.7-6-8.1-7.9-13.1-1.4-3.8-2.3-7.8-2.6-12-.1-1.5-.2-2.9-.2-4v-.7c0-12.4 3.6-20.3 3.6-20.3 1-2.4 2.5-4.9 4.6-7.2 2-2.4 4.6-4.4 7.7-6.2 3.1-1.8 6.8-3 11-3 5.4 0 9.6 2 12.4 5.2 2.2 2.4 3.6 5.4 4.1 8.7.5 3.2.3 7.3-3.3 8.8-3.1 1.3-4.8 1.3-9.1 1.3h-16.3c-2.5 0-4.7 1.9-5 4.3-.4 3.1 1.9 5.8 5 5.8h34.5c4.9 0 8.8-.3 11.7-.8 4-.7 7.1-4.2 7.1-8.3v-.1c0-5.6-1.1-10.5-3.3-14.7-2.2-4.4-5-7.9-8.6-10.8zm454 155.7l-3.5-.5c-2.2-.3-3.9-.8-5.2-1.5-1.3-.7-2.2-1.8-2.9-3.4-.7-1.6-1.1-3.8-1.3-6.6-.2-2.8-.3-6.6-.3-11.3v-39.3c0-10-2.5-18.1-7.4-24.5-4.9-6.3-12.5-9.5-22.8-9.5-3.9 0-7.4.3-10.4 1s-5.9 1.6-8.5 2.8c-2.3 1-4.6 2.2-6.7 3.5-1.2.7-1.9 2.1-2 3.5 0 3.1 2.8 5.5 5.8 4.9 2.9-.6 5-.5 5-.5.8 0 1.5 0 2.2.1 4.4.4 14 2.7 17.1 14.6.1.4.2.7.3 1.1 0 .2.1.4.1.6.1.6.2 1.1.3 1.7v.3c.1.6.1 1.3.2 2v.3c0 .8.1 1.5.1 2.3v35c0 4.7-.1 8.5-.3 11.3-.2 2.8-.6 5-1.3 6.7-.7 1.7-1.6 2.9-2.9 3.6-1.3.7-3 1.2-5.2 1.5l-1.4.2c-2.1.3-3.7 2.1-3.6 4.3.1 1.9 1.7 3.4 3.6 3.3 8.1-.4 16.1-.7 23.9-.7 4.7 0 9.3 0 13.8.1 3.9.1 8.2.2 12.8.5 1.9.1 3.6-1.4 3.7-3.3v-.1c.4-1.9-1.2-3.7-3.2-4zm136.6-1.3c-.1-2.4-2.5-4.1-4.8-3.4-2.7.8-5.2 1.2-7.5 1.2-2.2 0-3.8-2.3-4.7-6.9-.9-4.6-1.4-12.6-1.4-24.1V30.8c0-3.2 0-6.5.1-9.8s.2-6.5.3-9.6c.1-2.8.2-5.3.3-7.6.1-.9-.2-1.7-.9-2.3-.6-.6-1.4-.8-2.3-.7-.2 0-.5.1-.7.2l-3 1.2c-2 .8-4.1 1.6-6.1 2.4l-18.5 6.8c-.5.2-1 .3-1.5.5-2.2.5-5 1.2-5 4 0 2.6 1.7 3.3 3.7 4.6 1.8 1.2 4 2.3 5.1 4.3 1.7 3 1.6 6.7 1.7 10 0 .9.1 1.9.1 2.8v112.9c0 3.6-.6 5.9-1.8 7.1-1 1.2-3 2.4-6 3.7-3 1.3-6 1.9-9 1.9-4.6 0-8.8-1-12.6-3-3.8-2-7.2-4.9-10-8.8-2.9-3.8-5.1-8.4-6.7-13.7-1.6-5.3-2.4-11.3-2.4-17.9 0-5.2.7-10.2 2-15 1.4-4.7 3.2-8.8 5.6-12.2 2.4-3.4 5.3-6.1 8.8-8.1 3.5-2 7.4-3 11.8-3 1.7 0 3.2.2 4.6.6 3.2.8 6.3-1.8 6.3-5v-.5c0-2.8-2.3-5.1-5.1-5.2h-1.7c-8 0-15.6 1.3-23 3.9-7.4 2.6-13.8 6.5-19.4 11.5-5.6 5.1-10.1 11.2-13.5 18.4-3.4 7.2-5.1 15.4-5.1 24.5 0 6.4 1.1 12.6 3.3 18.4 2.2 5.8 5.3 11 9.4 15.5 4.1 4.5 9 8.1 14.7 10.8 5.7 2.7 12.3 4.1 19.5 4.1 6.1 0 11.5-1.2 16.2-3.6 4.5-2.3 8.7-4.7 12.4-7.5.4-.3.8-.4 1.2-.2.4.1.7.4.7.8.1.7.2 1.8.2 3.1 0 1.9-.1 3.7-.4 5.6l-.1.6c-.1.8.1 1.6.5 2.2.8 1.1 2.3 1.5 3.5 1 2-.8 4.3-1.7 7.1-2.5 3.3-1 6.8-1.9 10.4-2.8 3.6-.8 7.3-1.6 11-2.3 2.9-.5 5.7-1 8.3-1.3 2.7-.4 4.5-2.5 4.4-5zm150.5-63.4c-3.1 1.3-4.8 1.3-9.1 1.3h-16.3c-2.5 0-4.7 1.9-5 4.3-.4 3.1 1.9 5.8 5 5.8h34.5c4.9 0 8.8-.3 11.7-.8 4-.7 7.1-4.2 7.1-8.3v-.1c0-5.6-1.1-10.5-3.3-14.7-2.2-4.2-5.1-7.8-8.6-10.7-3.6-2.9-7.6-5.1-12.2-6.6s-9.2-2.3-14-2.3c-8.5 0-16 1.6-22.7 4.8-6.7 3.2-12.3 7.4-16.9 12.7-4.6 5.2-8 11.3-10.4 18-2.4 6.8-3.6 13.7-3.6 20.8 0 7.3 1.2 14 3.6 20.2 2.4 6.2 5.7 11.5 9.9 16.1 4.2 4.6 9.3 8.1 15.4 10.7 6 2.5 12.7 3.8 20.2 3.8 3.9 0 7.9-.5 12.1-1.5 4.1-1 8.1-2.6 11.9-4.8 3.8-2.2 7.4-5.1 10.7-8.6 2.9-3.1 5.4-6.8 7.4-11.1.8-1.7.4-3.7-1.1-4.9-1.5-1.2-3.5-.9-4.6.6-2.7 3.9-5.9 6.7-9.6 8.4-4.2 1.9-8.8 2.8-13.8 2.8-5.6 0-10.7-1.1-15.5-3.2-4.7-2.1-8.8-5-12.2-8.8-3.4-3.7-6-8.1-7.9-13.1-1.4-3.8-2.3-7.8-2.6-12-.1-1.5-.2-2.9-.2-4v-.7c0-12.4 3.6-20.3 3.6-20.3 1-2.4 2.5-4.9 4.6-7.2 2-2.4 4.6-4.4 7.7-6.2 3.1-1.8 6.8-3 11-3 5.4 0 9.6 2 12.4 5.2 2.2 2.4 3.6 5.4 4.1 8.7.5 3.2.3 7.2-3.3 8.7zm-80.8 64.7l-3.1-.4c-2.2-.3-3.9-.8-5.2-1.5-1.3-.7-2.2-1.8-2.9-3.4-.7-1.6-1.1-3.8-1.3-6.6-.2-2.8-.3-6.6-.3-11.3V30.8c0-3.2 0-6.5.1-9.8.1-3.3.2-6.5.3-9.6.1-2.8.2-5.3.3-7.6.1-.9-.2-1.7-.9-2.3-.6-.6-1.4-.8-2.3-.7-.2 0-.4.1-.7.2L844 12.5h-.2c-1.5.6-2.7 1.5-2.7 3.3 0 2.6 1.7 3.3 3.7 4.6 1.8 1.2 4 2.3 5.1 4.3 1.6 2.7 1.6 6.1 1.7 9.1.1 3.1.1 6.2.1 9.4v101.4c0 4.7-.1 8.5-.3 11.3-.2 2.8-.6 5-1.3 6.6-.7 1.6-1.6 2.8-2.9 3.4-1.3.7-3 1.2-5.2 1.5l-3 .4c-2.1.3-3.6 2.1-3.5 4.2v.2c.1 1.9 1.7 3.4 3.6 3.3 9.5-.4 18-.7 25.4-.7 4.7 0 9.3 0 13.8.1 3.9.1 8.1.2 12.5.5 1.9.1 3.6-1.3 3.7-3.2v-.1-.1c.5-2-1.1-3.8-3.2-4.1zm-272.1 4.2c0-2.1-1.5-3.9-3.6-4.2l-1.4-.2c-2.2-.3-3.9-.8-5.2-1.5-1.3-.7-2.2-1.9-2.9-3.6-.7-1.7-1.1-3.9-1.3-6.7-.2-2.8-.3-6.6-.3-11.3V78.3 70c0-.9-.5-1.8-1.4-2.1-.8-.3-1.6-.1-2.3.3-1.8 1-3.9 2.1-6.2 3.2-2.7 1.3-5.5 2.5-8.4 3.8-2.9 1.3-5.8 2.5-8.9 3.6-2.4.9-4.6 1.6-6.8 2.2-1.5.4-2.6 1.8-2.6 3.4v.1c0 2.2 1.5 3.4 3.2 4.3 1.3.7 2.5 1.6 3.5 2.6 2.5 2.7 3 5.6 3.1 8.8.1 1.9.1 4.2.1 7.1v37.3c0 4.7-.1 8.5-.3 11.3-.2 2.8-.6 5-1.3 6.6-.7 1.6-1.7 2.8-2.9 3.4-1.3.7-3 1.2-5.2 1.5l-2.8.4c-1.6.2-3 1.2-3.6 2.6-1.2 2.8 1.1 5.1 3.6 5 4.5-.3 8.7-.4 12.5-.5 4.4-.1 8.6-.1 12.7-.1 8.3 0 16.6.2 24.8.6 2.1.2 3.8-1.4 3.9-3.3zm-72-10c-.7-.1-1.3.5-2.9 1.4-1.6.9-3.5 1.4-5.7 1.4-9 0-13-7.4-12.2-22.3l1.8-39.6c.5-11.2-2.1-19.2-7.7-24.2-5.7-5-13.6-7.5-23.7-7.5-5.5 0-11 1.5-16.1 3.2-5.7 1.9-11.2 4.5-16.2 7.8-6.7 4.4-13.3 10-16.1 17.8-.4 1.1-.6 2.4-.4 3.6.9 5.6 8 4 11.8 3 4.4-1.2 8.9-2.6 11.6-6.5 1.4-2 1.9-4.2 2.3-6.6.5-3.1 2.1-6.3 4.6-8.2 2.4-1.9 5.5-2.8 9-2.8 3 0 5.6.6 7.7 1.9 2.1 1.3 3.8 3 4.9 5.2 1.2 2.2 2 4.8 2.4 7.7.3 2.2.5 4.5.4 6.8l-.1 2.5-1.1 30.6-.3 10.4c-.2 5.7-.3 12.7-6.3 15.5-2.8 1.3-6.2 1.5-9.2.9-6.6-1.3-11-8-11-14.5 0-2.7.4-5 1.1-6.9.8-1.9 1.8-3.4 3-4.7 1.3-1.3 2.7-2.3 4.3-3.2 1.6-.8 3.3-1.6 5.2-2.3.4-.2.9-.3 1.4-.5 1.8-.6 3-2.3 3.1-4.2.1-3.3-3.1-5.7-6.2-4.6-3.3 1.1-6.6 2.3-9.9 3.5-9.4 3.4-21.1 6.6-26.4 15.9-1 1.7-1.7 3.5-2.1 5.4-.1.5-.2.9-.3 1.4-1.9 10.2 3.2 21.1 12.4 25.9 1.6.8 3.2 1.5 5 1.9 3.8 1 7.7 1.2 11.6.8 3.9-.4 7.8-1.5 11.4-3 3.7-1.5 7-3.6 10.3-5.8 1.3-.8 3-1.6 4.5-.9 1.1.5 2 1.8 2.9 2.7 1 1.1 2.1 2.1 3.3 3 1.6 1.1 3.4 2 5.2 2.6 3.3 1 6.6 1.5 9.8 1.5 2 0 4.2-.3 6.6-.8 2.4-.5 4.7-1.2 7.1-2.2 2.4-.9 4.6-2.1 6.6-3.4 1.6-1.1 3-2.3 4.1-3.6 1.1-1.3 1.4-3.1.6-4.6-.8-.8-1.4-1.3-2.1-1.4zM367.6 293.7l-28.8-37.1h-8.7v53.7h9.3v-38.2l29.6 38.2h7.9v-53.7h-9.3v37.1zm-75.2-6.2c0 9.9-5.1 14.9-13.5 14.9s-13.6-5.4-13.6-15.3v-30.5h-9.4v30.9c0 15.6 8.9 23.6 22.8 23.6 14 0 23.1-8 23.1-24.1v-30.4h-9.4v30.9zm-144.5 22.8h9.4v-53.7h-9.4v53.7zm85.6-53.7H222l-25.5 27v-27H187v53.7h9.4v-15.6l8.4-8.6 18.3 24.2h11.4l-23.3-30.6 22.3-23.1zM29 279.1c-10.3-2.5-12.7-4.3-12.7-8.4v-.2c0-3.5 3.2-6.4 8.7-6.4 4.9 0 9.7 1.9 14.6 5.5l5.1-7.1c-5.4-4.4-11.7-6.7-19.5-6.7-10.7 0-18.3 6.4-18.3 15.6v.2c0 9.9 6.4 13.3 17.9 16 10 2.3 12.1 4.4 12.1 8.2v.2c0 4.1-3.7 6.7-9.5 6.7-6.7 0-11.8-2.5-16.9-7l-5.7 6.7c6.4 5.7 14.2 8.6 22.4 8.6 11.3 0 19.2-6 19.2-16v-.2c-.2-8.8-6.1-12.9-17.4-15.7zm61.5-22.9l-23.6 54.1h9.7l5.5-13h25.4l5.4 13h10l-23.6-54.1h-8.8zm-5 32.8l9.2-21.5L104 289H85.5zm884.3 13l11-9.2c9.5-7.7 14-12.3 14-20.8v-.2c0-9.6-7.2-16-17.7-16-9.6 0-14.6 4.1-19.8 11.3l6.7 5.2c4.1-5.4 7.5-8 12.4-8s8.7 3.1 8.7 8.4c0 4.8-2.7 8.3-10 14.5l-18.5 15.7v7.4h38.8V302h-25.6zm-402.3-14.6h26.9V279h-26.9v-14h30.4v-8.4h-39.8v53.7h40.2v-8.4h-30.7v-14.5zm234.9 5.4c9.5-7.7 14-12.3 14-20.8v-.2c0-9.6-7.2-16-17.7-16-9.6 0-14.6 4.1-19.8 11.3l6.7 5.2c4.1-5.4 7.5-8 12.4-8s8.7 3.1 8.7 8.4c0 4.8-2.7 8.3-10 14.5l-18.5 15.7v7.4H817V302h-25.5l10.9-9.2zm-58.8 17.5h10.2v-10.5h-10.2v10.5zm165.5-49.5l2 7.7 9.7-2.7v44.5h9.4v-54.1h-6.6l-14.5 4.6zm-44.6-5.1c-14.1 0-23.5 12.4-23.5 27.8v.2c0 15.3 9.2 27.6 23.3 27.6s23.5-12.4 23.5-27.8v-.2c0-15.3-9.3-27.6-23.3-27.6zm13.6 27.9c0 10.6-5.2 19.1-13.6 19.1-8.4 0-13.7-8.7-13.7-19.2v-.2c0-10.7 5.3-19.1 13.6-19.1s13.7 8.7 13.7 19.2v.2zm-194-18.2h17v44.9h9.5v-44.9h17v-8.7h-43.5v8.7zM431 288.5h13.7v10c-3.3 2.5-7.9 4.1-13 4.1-11 0-18.2-8.1-18.2-19.2v-.2c0-10.3 7.5-18.9 17.4-18.9 6.8 0 10.9 2.2 15 5.7l6-7.1c-5.5-4.7-11.3-7.3-20.6-7.3-16.2 0-27.7 12.7-27.7 27.8v.2c0 15.6 11 27.6 27.8 27.6 9.5 0 17.1-3.8 22.4-8.4v-22.5H431v8.2zm214.4-9.4c-10.3-2.5-12.7-4.3-12.7-8.4v-.2c0-3.5 3.2-6.4 8.7-6.4 4.9 0 9.7 1.9 14.6 5.5l5.1-7.1c-5.4-4.4-11.6-6.7-19.5-6.7-10.7 0-18.3 6.4-18.3 15.6v.2c0 9.9 6.4 13.3 17.9 16 10 2.3 12.1 4.4 12.1 8.2v.2c0 4.1-3.7 6.7-9.5 6.7-6.7 0-11.8-2.5-16.9-7l-5.7 6.7c6.4 5.7 14.2 8.6 22.4 8.6 11.3 0 19.2-6 19.2-16v-.2c-.1-8.8-6-12.9-17.4-15.7z"/></svg></span>
+        </div>
+      
+      
+
+      
+    </a>
+  </div>
+
+            </div>
+            <div data-takes-space class="header__desktop__bar__r">
+              <div class="header__desktop__bar__inline">
+                
+  <nav class="header__menu">
+    <div class="header__menu__inner" data-text-items-wrapper>
+      
+        
+
+<div class="menu__item  grandparent kids-6 "
+  data-main-menu-text-item
+   
+    aria-haspopup="true" 
+    aria-expanded="false"
+    data-hover-disclosure-toggle="dropdown-514b55b0616c080fb6fdbd05bc8bd894"
+    aria-controls="dropdown-514b55b0616c080fb6fdbd05bc8bd894"
+  >
+  <a href="#" data-top-link class="navlink navlink--toplevel">
+    <span class="navtext">Shop</span>
+  </a>
+  
+    <div class="header__dropdown"
+      data-hover-disclosure
+      id="dropdown-514b55b0616c080fb6fdbd05bc8bd894">
+      <div class="header__dropdown__wrapper">
+        <div class="header__dropdown__inner">
+              
+                <div class="dropdown__family">
+                  <a href="#" data-stagger-first class="navlink navlink--child">
+                    <span class="navtext">Candles</span>
+                  </a>
+                  
+                    <a href="/collections/regular-series-scented-candle-200g" data-stagger-second class="navlink navlink--grandchild">
+                      <span class="navtext">BeC Classic</span>
+                    </a>
+                  
+                    <a href="/collections/bec-classic" data-stagger-second class="navlink navlink--grandchild">
+                      <span class="navtext">BeC Classic+</span>
+                    </a>
+                  
+                    <a href="/pages/sai-kung-soil" data-stagger-second class="navlink navlink--grandchild">
+                      <span class="navtext">Sai Kung Soil</span>
+                    </a>
+                  
+                    <a href="/collections/studio-series" data-stagger-second class="navlink navlink--grandchild">
+                      <span class="navtext">Studio Series</span>
+                    </a>
+                  
+                    <a href="/collections/metal-works" data-stagger-second class="navlink navlink--grandchild">
+                      <span class="navtext">Metal Works</span>
+                    </a>
+                  
+                    <a href="/collections/travel-candle" data-stagger-second class="navlink navlink--grandchild">
+                      <span class="navtext">Travel Candle</span>
+                    </a>
+                  
+                    <a href="/collections/candle-crafts" data-stagger-second class="navlink navlink--grandchild">
+                      <span class="navtext">Dim Sum Candle</span>
+                    </a>
+                  
+                </div>
+              
+                <div class="dropdown__family">
+                  <a href="/collections/becandle-x-skin-need" data-stagger-first class="navlink navlink--child">
+                    <span class="navtext">Body</span>
+                  </a>
+                  
+                    <a href="/collections/becandle-x-skin-need/skin-need+skin-care" data-stagger-second class="navlink navlink--grandchild">
+                      <span class="navtext">BeCandle X Skin Need</span>
+                    </a>
+                  
+                    <a href="/collections/farmacia-ss-annunziata-1561/perume+FSSA" data-stagger-second class="navlink navlink--grandchild">
+                      <span class="navtext">Farmacia SS.Annunziata 1561</span>
+                    </a>
+                  
+                    <a href="/products/llems-page" data-stagger-second class="navlink navlink--grandchild">
+                      <span class="navtext">Perfume by LLEMS</span>
+                    </a>
+                  
+                    <a href="/collections/hand-sanitizer" data-stagger-second class="navlink navlink--grandchild">
+                      <span class="navtext">Hand Sanitizer</span>
+                    </a>
+                  
+                </div>
+              
+                <div class="dropdown__family">
+                  <a href="#" data-stagger-first class="navlink navlink--child">
+                    <span class="navtext">Feature</span>
+                  </a>
+                  
+                    <a href="/collections/special-edition" data-stagger-second class="navlink navlink--grandchild">
+                      <span class="navtext">Seasonal feature</span>
+                    </a>
+                  
+                    <a href="/products/r-kit-candle-refill" data-stagger-second class="navlink navlink--grandchild">
+                      <span class="navtext">R KIT</span>
+                    </a>
+                  
+                </div>
+              
+                <div class="dropdown__family">
+                  <a href="#" data-stagger-first class="navlink navlink--child">
+                    <span class="navtext">By Notes</span>
+                  </a>
+                  
+                    <a href="/collections/floral" data-stagger-second class="navlink navlink--grandchild">
+                      <span class="navtext">FLORAL</span>
+                    </a>
+                  
+                    <a href="/collections/woody" data-stagger-second class="navlink navlink--grandchild">
+              
